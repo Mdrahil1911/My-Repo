@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SUBMIT CATEGORY</name>
+   <tag></tag>
+   <elementGuidId>60cd2e74-a2fe-42d5-9a55-88cacd973465</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.default-css.btn.btn-primary.large-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='participantCategory']/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>936410e8-37b4-4b6b-af77-2c134db3f4ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>default-css btn btn-primary large-btn</value>
+      <webElementGuid>1fa658fe-a59d-417d-844f-00511be0b586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SUBMIT CATEGORY</value>
+      <webElementGuid>0077ad8a-eec3-4e09-a137-eb8d429e7087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myTabContent&quot;)/div[@id=&quot;participantCategory&quot;]/div[@class=&quot;col-md-12 add-project d-flex align-items-center justify-content-between p-0 event-filter&quot;]/button[@class=&quot;default-css btn btn-primary large-btn&quot;]</value>
+      <webElementGuid>30f5997e-b3dc-40c2-8004-3aac25de20e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='participantCategory']/div/button</value>
+      <webElementGuid>a834f645-9824-48bd-a941-eda1e11a7953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category Listing'])[1]/following::button[1]</value>
+      <webElementGuid>4c0832af-3f80-43e5-9d40-13bd8ddf453f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Station Categories'])[1]/following::button[1]</value>
+      <webElementGuid>a99c1985-f65c-42cc-91b4-fd2a16901451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::button[1]</value>
+      <webElementGuid>24b1d477-e5fd-4808-b8d1-f9fa052de0d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category Name'])[1]/preceding::button[1]</value>
+      <webElementGuid>86fdd94c-27b3-48cd-b4bb-737f3f0bf2f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SUBMIT CATEGORY']/parent::*</value>
+      <webElementGuid>afad78f6-8a99-45a6-8f27-94fe79bb90ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button</value>
+      <webElementGuid>22127338-54db-43f2-ac98-4a8012eb69c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'SUBMIT CATEGORY' or . = 'SUBMIT CATEGORY')]</value>
+      <webElementGuid>3b97b00c-834e-4ea3-a385-5c3e4f92766d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='documentCategory']/div/button</value>
+      <webElementGuid>745162b0-0739-4c7d-aced-95e9a49720bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Categories'])[2]/following::button[1]</value>
+      <webElementGuid>2bdde53a-198e-4f70-82c7-2bc686f9d519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::button[1]</value>
+      <webElementGuid>ab26b176-7f47-4d84-aa02-41bc5ffc474a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='eventCategory']/div/button</value>
+      <webElementGuid>53145b49-d485-4b9d-afc0-f6bdad06df5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event Categories'])[2]/following::button[1]</value>
+      <webElementGuid>603623e8-3d0f-45d8-b67c-9e0cafefa2bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='projectCategory']/div/button</value>
+      <webElementGuid>3a5fd4bc-d993-41f6-b5ce-125bcce2a154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Categories'])[2]/following::button[1]</value>
+      <webElementGuid>31cd4561-8243-41b6-a547-9f5030dddbf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

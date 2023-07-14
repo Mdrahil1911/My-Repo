@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Welcome Back_col-lg-6 d-none d-lg-block_6de795</name>
+   <tag></tag>
+   <elementGuidId>c0bff055-b0aa-4dd1-97d2-9044c8f7eb22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-6.d-none.d-lg-block.bg-login-image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4c3f8be0-5701-4933-907c-926cf75bbae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-6 d-none d-lg-block bg-login-image</value>
+      <webElementGuid>d77a0513-f6b3-4554-9cc9-649c918db72a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;bg-gradient-primary&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-xl-10 col-lg-12 col-md-9&quot;]/div[@class=&quot;card o-hidden border-0 shadow-lg my-5&quot;]/div[@class=&quot;card-body p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 d-none d-lg-block bg-login-image&quot;]</value>
+      <webElementGuid>5c78280f-71db-4f3b-8568-88b4e05e44f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>73714434-daa7-4e80-abb8-a50f32af1672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>b4e1e37e-cfdd-494e-a565-8b55681faaf8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

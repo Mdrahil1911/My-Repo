@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Text InputPlaceholder Label</name>
+   <tag></tag>
+   <elementGuidId>db03ef42-eeee-42f9-b469-3d24b663ca40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-top']/div/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.SortableItem.rfb-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c0e65c75-a1e3-4eb5-84df-320f665805ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SortableItem rfb-item</value>
+      <webElementGuid>8a50f038-3418-4c37-9fe1-1f8ff01d7576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Text InputPlaceholder Label</value>
+      <webElementGuid>daf179a0-c8af-450e-8be7-aa7cee780c91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-top&quot;)/div[1]/div[@class=&quot;page-top-main-div&quot;]/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;form-builder-container&quot;]/div[@class=&quot;w-100 overflow-hidden bg-transparent shadow-none card&quot;]/div[@class=&quot;p-4 card-body&quot;]/div[2]/div[@class=&quot;form-builder-middle-box mt-4&quot;]/div[@class=&quot;form-builder-middle-left-box-section mb-3&quot;]/div[1]/div[@class=&quot;react-form-builder clearfix&quot;]/div[@class=&quot;col-md-9 react-form-builder-preview float-left&quot;]/div[@class=&quot;Sortable&quot;]/div[1]/div[@class=&quot;SortableItem rfb-item&quot;]</value>
+      <webElementGuid>67cde526-5a85-4466-ba98-fb08f1f9510c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-top']/div/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>13ea1c51-470a-4718-afff-0a0b1f629c31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::div[9]</value>
+      <webElementGuid>34df8f14-2b0a-4f58-bab6-6e09c41c22fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::div[9]</value>
+      <webElementGuid>219894b0-a147-4a42-aaa1-b57caa8c98c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>0f380682-eaec-4fa6-a117-3965dcc30f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Text InputPlaceholder Label' or . = 'Text InputPlaceholder Label')]</value>
+      <webElementGuid>5a285656-f311-4821-9e0e-7b96730cf8fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

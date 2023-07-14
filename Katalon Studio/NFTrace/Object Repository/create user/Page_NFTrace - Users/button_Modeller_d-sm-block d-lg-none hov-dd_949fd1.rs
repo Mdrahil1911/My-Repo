@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Modeller_d-sm-block d-lg-none hov-dd_949fd1</name>
+   <tag></tag>
+   <elementGuidId>60037888-f613-4dc8-86d9-cc09d6da9ac5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.d-sm-block.d-lg-none.hov-dd.border-0.mx-1.btn.btn-white</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ff9fb384-236d-46f6-a6ff-ae46b068fda2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>50b2fd27-f47c-4f35-a2f1-0db4207aa59c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-sm-block d-lg-none hov-dd border-0 mx-1 btn btn-white</value>
+      <webElementGuid>f246a48e-3120-43d5-b38c-c72ffe73dec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;ltr&quot;]/div[@class=&quot;pageWrapper d-md-block d-lg-flex&quot;]/div[@class=&quot;contentArea fixedTopbar&quot;]/nav[@class=&quot;topbar border-bottom  navbar navbar-expand-lg navbar-dark bg-white&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/button[@class=&quot;d-sm-block d-lg-none hov-dd border-0 mx-1 btn btn-white&quot;]</value>
+      <webElementGuid>f67a611e-226e-46ca-889c-0a6e37169664</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>d375138a-a8b9-47af-9dfb-840088783c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div/div/nav/div/div[2]/button[2]</value>
+      <webElementGuid>5243525e-8a3e-4a61-ba50-082a847b7986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modeller'])[1]/following::button[2]</value>
+      <webElementGuid>7aee66ed-2d0d-46c5-bfdf-afde184275e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NFT Digital Certificates'])[1]/following::button[2]</value>
+      <webElementGuid>cdfb09d6-c13b-4cac-b659-b69dab2d1e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::button[3]</value>
+      <webElementGuid>046300a1-36a1-4d79-ae05-9a04b510ae3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>8f7b2ac5-76b0-4a36-9eee-f8da86f59e5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>0fc1a1a7-0f25-4c3e-8e7b-9f2bdd6d3274</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

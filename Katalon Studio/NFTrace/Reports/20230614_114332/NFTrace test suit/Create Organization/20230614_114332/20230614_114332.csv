@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Create Organization,Chrome 114.0.0.0,,,2023-06-14 11:43:39,2023-06-14 11:43:49,10.019s,FAILED
+,,,,,,,
+Test Cases/NFTrace/Login Logout Register/Login,Chrome 114.0.0.0,,,2023-06-14 11:43:40,2023-06-14 11:43:46,6.381s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-14 11:43:40,2023-06-14 11:43:43,2.775s,PASSED
+"navigateToUrl(""https://app.ccltrace.com/login"", STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-14 11:43:43,2023-06-14 11:43:44,0.725s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-06-14 11:43:44,2023-06-14 11:43:44,0.178s,PASSED
+"setText(findTestObject(""Object Repository/login Page_/input_Email_email""), ""umpla@gotgel.org"")",Chrome 114.0.0.0,,,2023-06-14 11:43:44,2023-06-14 11:43:45,1.309s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/login Page_/input_Password_password""), ""lt7kXPiIKwaT+RdC1Uoh9g=="", CONTINUE_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-14 11:43:45,2023-06-14 11:43:46,0.522s,PASSED
+"click(findTestObject(""Object Repository/login Page_/button_Login""))",Chrome 114.0.0.0,,,2023-06-14 11:43:46,2023-06-14 11:43:46,0.440s,PASSED
+,,,,,,,
+Test Cases/NFTrace/SUPER ADMIN/Create Organization,Chrome 114.0.0.0,,,2023-06-14 11:43:46,2023-06-14 11:43:49,2.676s,FAILED
+"click(findTestObject(""Object Repository/logout page/a_Organizations""))",Chrome 114.0.0.0,,,2023-06-14 11:43:46,2023-06-14 11:43:49,2.253s,FAILED
+,,,,,,,
+Test Cases/NFTrace/Login Logout Register/logout,Chrome 114.0.0.0,,,2023-06-14 11:43:49,2023-06-14 11:43:49,0.645s,FAILED
+"click(findTestObject(""Object Repository/logout page/button_Planner_d-flex justify-content-cente_308e09""))",Chrome 114.0.0.0,,,2023-06-14 11:43:49,2023-06-14 11:43:49,0.111s,FAILED

@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Create Organization,Chrome 114.0.0.0,,,2023-06-16 12:25:05,2023-06-16 12:26:08,1m - 3.645s,FAILED
+,,,,,,,
+Test Cases/NFTrace/Login Logout Register/Login,Chrome 114.0.0.0,,,2023-06-16 12:25:05,2023-06-16 12:25:11,5.851s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-16 12:25:05,2023-06-16 12:25:08,2.431s,PASSED
+"navigateToUrl(""https://dev.app.ccltrace.com/login"", STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-16 12:25:08,2023-06-16 12:25:09,1.100s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-06-16 12:25:09,2023-06-16 12:25:09,0.141s,PASSED
+"setText(findTestObject(""Object Repository/login Page_/input_Email_email""), ""superadmin@chaincodeconsulting.com"")",Chrome 114.0.0.0,,,2023-06-16 12:25:09,2023-06-16 12:25:10,0.931s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/login Page_/input_Password_password""), ""lt7kXPiIKwaT+RdC1Uoh9g=="", CONTINUE_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-16 12:25:10,2023-06-16 12:25:10,0.507s,PASSED
+"click(findTestObject(""Object Repository/login Page_/button_Login""))",Chrome 114.0.0.0,,,2023-06-16 12:25:10,2023-06-16 12:25:11,0.425s,PASSED
+,,,,,,,
+Test Cases/NFTrace/SUPER ADMIN/Create Organization,Chrome 114.0.0.0,,,2023-06-16 12:25:11,2023-06-16 12:26:08,57.519s,FAILED
+"click(findTestObject(""Object Repository/logout page/a_Organizations""))",Chrome 114.0.0.0,,,2023-06-16 12:25:11,2023-06-16 12:25:13,1.888s,PASSED
+"click(findTestObject(""NFTrace - Organizations/button_Create Organization""), CONTINUE_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-16 12:25:13,2023-06-16 12:25:14,1.107s,FAILED
+"setText(findTestObject(""Object Repository/NFTrace - Organizations/input__organizationName""), ""LPU UNIVERSITY"")",Chrome 114.0.0.0,,,2023-06-16 12:25:14,2023-06-16 12:25:39,25.161s,PASSED
+"selectOptionByIndex(findTestObject(""NFTrace - Organizations/select_Select Organization typeSupply Chain_735ca9""), ""2"", STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-16 12:25:39,2023-06-16 12:25:40,1.205s,PASSED
+"setText(findTestObject(""Object Repository/NFTrace - Organizations/input__email""), ""LPU@gotgel.org"")",Chrome 114.0.0.0,,,2023-06-16 12:25:40,2023-06-16 12:25:42,1.044s,PASSED
+"setText(findTestObject(""Object Repository/NFTrace - Organizations/input__phone""), ""9535225612"")",Chrome 114.0.0.0,,,2023-06-16 12:25:42,2023-06-16 12:25:43,1.034s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/NFTrace - Organizations/input__password""), ""lubJgWeNoDywD0cxuuK8nQ=="")",Chrome 114.0.0.0,,,2023-06-16 12:25:43,2023-06-16 12:25:43,0.583s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/NFTrace - Organizations/input__confirmPassword""), ""lubJgWeNoDywD0cxuuK8nQ=="")",Chrome 114.0.0.0,,,2023-06-16 12:25:43,2023-06-16 12:25:44,0.713s,PASSED
+"uploadFile(findTestObject(""image/image/input__file upload_file""), ""C:\Users\MD Rahil\Desktop\NFTrace images\reva.jpg"")",Chrome 114.0.0.0,,,2023-06-16 12:25:44,2023-06-16 12:25:44,0.569s,PASSED
+"click(findTestObject(""Object Repository/NFTrace - Organizations/button_Submit""))",Chrome 114.0.0.0,,,2023-06-16 12:25:44,2023-06-16 12:26:08,23.872s,FAILED

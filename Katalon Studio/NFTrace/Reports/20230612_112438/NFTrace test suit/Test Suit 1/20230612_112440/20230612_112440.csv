@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suit 1,Chrome 114.0.0.0,,,2023-06-12 11:24:53,2023-06-12 11:25:29,36.000s,FAILED
+,,,,,,,
+Test Cases/Login,Chrome 114.0.0.0,,,2023-06-12 11:24:54,2023-06-12 11:25:04,10.653s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-12 11:24:54,2023-06-12 11:25:00,5.929s,PASSED
+"navigateToUrl(""https://app.ccltrace.com/login"")",Chrome 114.0.0.0,,,2023-06-12 11:25:00,2023-06-12 11:25:02,1.363s,PASSED
+"setText(findTestObject(""Object Repository/Page_/input_Email_email""), ""superadmin@chaincodeconsulting.com"")",Chrome 114.0.0.0,,,2023-06-12 11:25:02,2023-06-12 11:25:03,1.583s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_/input_Password_password""), ""lt7kXPiIKwaT+RdC1Uoh9g=="", CONTINUE_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-12 11:25:03,2023-06-12 11:25:04,0.654s,PASSED
+"click(findTestObject(""Object Repository/Page_/button_Login""))",Chrome 114.0.0.0,,,2023-06-12 11:25:04,2023-06-12 11:25:04,0.452s,PASSED
+,,,,,,,
+Test Cases/create organization,Chrome 114.0.0.0,,,2023-06-12 11:25:04,2023-06-12 11:25:11,6.750s,FAILED
+"click(findTestObject(""Object Repository/Page_NFTrace - Projects/a_Organizations""))",Chrome 114.0.0.0,,,2023-06-12 11:25:05,2023-06-12 11:25:07,2.176s,PASSED
+"click(findTestObject(""Object Repository/Page_NFTrace - Organizations/button_Create Organization""))",Chrome 114.0.0.0,,,2023-06-12 11:25:07,2023-06-12 11:25:08,0.981s,PASSED
+"setText(findTestObject(""Object Repository/Page_NFTrace - Organizations/input__organizationName""), ""London University"")",Chrome 114.0.0.0,,,2023-06-12 11:25:08,2023-06-12 11:25:09,1.296s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_NFTrace - Organizations/select_Select Organization typeSupply Chain_735ca9""), ""Select Organization type"", true)",Chrome 114.0.0.0,,,2023-06-12 11:25:09,2023-06-12 11:25:11,1.810s,FAILED
+,,,,,,,
+Test Cases/logout,Chrome 114.0.0.0,,,2023-06-12 11:25:11,2023-06-12 11:25:29,18.002s,FAILED
+"click(findTestObject(""Object Repository/Page_NFTrace - Projects/button_Planner_d-flex justify-content-cente_308e09""))",Chrome 114.0.0.0,,,2023-06-12 11:25:12,2023-06-12 11:25:29,17.336s,FAILED

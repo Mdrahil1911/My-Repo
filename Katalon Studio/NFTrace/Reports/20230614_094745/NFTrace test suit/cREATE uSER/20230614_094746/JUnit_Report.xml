@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="cREATE uSER" time="15.537" tests="2" failures="0" errors="0">
+   <testsuite name="cREATE uSER" tests="2" failures="0" errors="0" time="15.537" skipped="0" timestamp="2023-06-14 09:47:55" hostname="MD Rahil - CCLNiranjan" id="Test Suites/NFTrace test suit/cREATE uSER">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\MD Rahil\\Katalon Studio\\NFTrace\\Reports\\20230614_094745\\NFTrace test suit\\cREATE uSER\\20230614_094746"/>
+         <property name="logFiles" value="C:\\Users\\MD Rahil\\Katalon Studio\\NFTrace\\Reports\\20230614_094745\\NFTrace test suit\\cREATE uSER\\20230614_094746\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="MD Rahil - CCLNiranjan"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.211"/>
+         <property name="sessionId" value="98839a71db4986cbb3c6824ee809b8d6"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/NFTrace/Login Logout Register/Login" time="6.025" classname="Test Cases/NFTrace/Login Logout Register/Login" status="PASSED">
+         <system-out><![CDATA[2023-06-14 09:47:56 - [TEST_CASE][PASSED] - Test Cases/NFTrace/Login Logout Register/Login: Test Cases/NFTrace/Login Logout Register/Login
+
+2023-06-14 09:47:56 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-14 09:47:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-14 09:47:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-14 09:47:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-14 09:47:58 - [TEST_STEP][PASSED] - navigateToUrl(URL, CONTINUE_ON_FAILURE): Navigate to 'https://dev.app.ccltrace.com/login' successfully
+
+2023-06-14 09:48:00 - [MESSAGE][PASSED] - Navigate to 'https://dev.app.ccltrace.com/login' successfully
+
+2023-06-14 09:48:00 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-14 09:48:00 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-14 09:48:00 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/login Page_/input_Email_email"), "PES@gotgel.org"): Text 'PES@gotgel.org' is set on object 'Object Repository/login Page_/input_Email_email'
+
+2023-06-14 09:48:01 - [MESSAGE][PASSED] - Text 'PES@gotgel.org' is set on object 'Object Repository/login Page_/input_Email_email'
+
+2023-06-14 09:48:01 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/login Page_/input_Password_password"), "lt7kXPiIKwaT+RdC1Uoh9g==", CONTINUE_ON_FAILURE): Text ****** has been set on object 'Object Repository/login Page_/input_Password_password'
+
+2023-06-14 09:48:01 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/login Page_/input_Password_password'
+
+2023-06-14 09:48:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/login Page_/button_Login")): Object: 'Object Repository/login Page_/button_Login' is clicked on
+
+2023-06-14 09:48:02 - [MESSAGE][PASSED] - Object: 'Object Repository/login Page_/button_Login' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/NFTrace/Organization/Create User" time="9.285" classname="Test Cases/NFTrace/Organization/Create User" status="PASSED">
+         <system-out><![CDATA[2023-06-14 09:48:02 - [TEST_CASE][PASSED] - Test Cases/NFTrace/Organization/Create User: Test Cases/NFTrace/Organization/Create User
+
+2023-06-14 09:48:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_NFTrace - Users/button_Create User")): Object: 'Object Repository/Page_NFTrace - Users/button_Create User' is clicked on
+
+2023-06-14 09:48:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_NFTrace - Users/button_Create User' is clicked on
+
+2023-06-14 09:48:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_NFTrace - Users/input__firstName"), "noah"): Text 'noah' is set on object 'Object Repository/Page_NFTrace - Users/input__firstName'
+
+2023-06-14 09:48:05 - [MESSAGE][PASSED] - Text 'noah' is set on object 'Object Repository/Page_NFTrace - Users/input__firstName'
+
+2023-06-14 09:48:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_NFTrace - Users/input__lastName"), "olivia"): Text 'olivia' is set on object 'Object Repository/Page_NFTrace - Users/input__lastName'
+
+2023-06-14 09:48:06 - [MESSAGE][PASSED] - Text 'olivia' is set on object 'Object Repository/Page_NFTrace - Users/input__lastName'
+
+2023-06-14 09:48:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_NFTrace - Users/input__email"), "noah@gotgel.org"): Text 'noah@gotgel.org' is set on object 'Object Repository/Page_NFTrace - Users/input__email'
+
+2023-06-14 09:48:07 - [MESSAGE][PASSED] - Text 'noah@gotgel.org' is set on object 'Object Repository/Page_NFTrace - Users/input__email'
+
+2023-06-14 09:48:07 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/create user/Page_NFTrace - Users/input__phone"), "9536548964"): Text '9536548964' is set on object 'Object Repository/create user/Page_NFTrace - Users/input__phone'
+
+2023-06-14 09:48:08 - [MESSAGE][PASSED] - Text '9536548964' is set on object 'Object Repository/create user/Page_NFTrace - Users/input__phone'
+
+2023-06-14 09:48:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_NFTrace - Users/input_Wallet Address_form-check-input")): Object: 'Object Repository/Page_NFTrace - Users/input_Wallet Address_form-check-input' is clicked on
+
+2023-06-14 09:48:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_NFTrace - Users/input_Wallet Address_form-check-input' is clicked on
+
+2023-06-14 09:48:08 - [TEST_STEP][PASSED] - click(findTestObject("create user/Page_NFTrace - Users/input_Wallet Address_form-check-input")): Object: 'Object Repository/create user/Page_NFTrace - Users/input_Wallet Address_form-check-input' is clicked on
+
+2023-06-14 09:48:09 - [MESSAGE][PASSED] - Object: 'Object Repository/create user/Page_NFTrace - Users/input_Wallet Address_form-check-input' is clicked on
+
+2023-06-14 09:48:09 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_NFTrace - Users/input__password"), "lt7kXPiIKwaT+RdC1Uoh9g=="): Text ****** has been set on object 'Object Repository/Page_NFTrace - Users/input__password'
+
+2023-06-14 09:48:10 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_NFTrace - Users/input__password'
+
+2023-06-14 09:48:10 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_NFTrace - Users/input__confirmPassword"), "lt7kXPiIKwaT+RdC1Uoh9g=="): Text ****** has been set on object 'Object Repository/Page_NFTrace - Users/input__confirmPassword'
+
+2023-06-14 09:48:10 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_NFTrace - Users/input__confirmPassword'
+
+2023-06-14 09:48:10 - [TEST_STEP][PASSED] - uploadFile(findTestObject("image/image/input__file upload_file"), "C:\Users\MD Rahil\Desktop\NFTrace images\download.jpg"): File 'C:\Users\MD Rahil\Desktop\NFTrace images\download.jpg' sent to object: 'Object Repository/image/image/input__file upload_file'
+
+2023-06-14 09:48:11 - [MESSAGE][PASSED] - File 'C:\Users\MD Rahil\Desktop\NFTrace images\download.jpg' sent to object: 'Object Repository/image/image/input__file upload_file'
+
+2023-06-14 09:48:11 - [TEST_STEP][PASSED] - click(findTestObject("create user/Page_NFTrace - Users/button_Submit")): Object: 'Object Repository/create user/Page_NFTrace - Users/button_Submit' is clicked on
+
+2023-06-14 09:48:11 - [MESSAGE][PASSED] - Object: 'Object Repository/create user/Page_NFTrace - Users/button_Submit' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-14 09:47:55 - [TEST_SUITE][PASSED] - cREATE uSER: Test Cases/NFTrace/Organization/Create User]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Display Label_public-DraftStyleDefault-_4e7ce6</name>
+   <tag></tag>
+   <elementGuidId>311a028f-665f-4e69-a988-1b2302113320</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rdw-wrapper-4731']/div[2]/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.public-DraftStyleDefault-block.public-DraftStyleDefault-ltr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>04a59f0f-89cb-4d81-8cf0-f4ec6594c038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-offset-key</name>
+      <type>Main</type>
+      <value>bp0bp-0-0</value>
+      <webElementGuid>4e9d6a7e-e452-4e1f-b60d-b1cc9bc557be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>public-DraftStyleDefault-block public-DraftStyleDefault-ltr</value>
+      <webElementGuid>645fabba-2b8a-4569-97fe-3e5441e97a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rdw-wrapper-4731&quot;)/div[@class=&quot;rdw-editor-main&quot;]/div[@class=&quot;DraftEditor-root&quot;]/div[@class=&quot;DraftEditor-editorContainer&quot;]/div[@class=&quot;notranslate public-DraftEditor-content&quot;]/div[1]/div[1]/div[@class=&quot;public-DraftStyleDefault-block public-DraftStyleDefault-ltr&quot;]</value>
+      <webElementGuid>91a46ae1-0085-4339-ba66-ec8dcdb43df0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rdw-wrapper-4731']/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>e390590b-e6d1-4780-8b3a-517274eabeb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display Label'])[1]/following::div[34]</value>
+      <webElementGuid>0d46a6a0-f5b7-4210-a7da-997de39d85e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text Input'])[1]/following::div[35]</value>
+      <webElementGuid>39db1cce-6288-4170-b22b-b804dfb40e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required'])[1]/preceding::div[1]</value>
+      <webElementGuid>58e19b9e-79ff-4aee-b717-97d227f5367d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validate Email'])[1]/preceding::div[2]</value>
+      <webElementGuid>2f1649ee-84a6-468d-955d-741532ad2a16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div[2]/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>7cb331c8-c332-47e8-af68-5815cea730bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

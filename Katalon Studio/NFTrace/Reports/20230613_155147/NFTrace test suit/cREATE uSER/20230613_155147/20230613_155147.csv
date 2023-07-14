@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+cREATE uSER,Chrome 114.0.0.0,,,2023-06-13 15:51:54,2023-06-13 15:52:05,11.080s,FAILED
+,,,,,,,
+Test Cases/NFTrace/Login Logout Register/Login,Chrome 114.0.0.0,,,2023-06-13 15:51:54,2023-06-13 15:52:04,9.881s,FAILED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-13 15:51:54,2023-06-13 15:51:57,3.152s,PASSED
+"navigateToUrl(URL, CONTINUE_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-13 15:51:57,2023-06-13 15:51:59,1.516s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-06-13 15:51:59,2023-06-13 15:51:59,0.197s,PASSED
+"setText(findTestObject(""Object Repository/login Page_/input_Email_email""), ""superadmin@chaincodeconsulting.com"")",Chrome 114.0.0.0,,,2023-06-13 15:51:59,2023-06-13 15:52:04,4.690s,FAILED
+,,,,,,,
+Test Cases/NFTrace/Organization/Create User,Chrome 114.0.0.0,,,2023-06-13 15:52:04,2023-06-13 15:52:05,0.934s,FAILED
+"click(findTestObject(""Object Repository/create user/Page_NFTrace - Users/button_Create User""))",Chrome 114.0.0.0,,,2023-06-13 15:52:04,2023-06-13 15:52:05,0.409s,FAILED

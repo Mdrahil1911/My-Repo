@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Save</name>
+   <tag></tag>
+   <elementGuidId>8c7bc418-989c-4229-ae04-ce4a4d59ab14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-top']/div/div/div/div/div[2]/div/div[2]/div/button[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>39cab878-31d1-49ee-9148-ede7ce5d4efa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-1 cursor-pointer form-label</value>
+      <webElementGuid>c52a0eaf-02ae-45a1-9ab5-52b5c922ba54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>0c811602-4142-4cf7-bdaa-cd4bf68ac9d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-top&quot;)/div[1]/div[@class=&quot;page-top-main-div&quot;]/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;form-builder-container&quot;]/div[@class=&quot;w-100 overflow-hidden bg-transparent shadow-none card&quot;]/div[@class=&quot;p-4 card-body&quot;]/div[2]/div[@class=&quot;d-flex justify-content-end mt-n3 pe-5&quot;]/button[@class=&quot;d-flex mx-1 btn btn-dangerNew&quot;]/label[@class=&quot;mx-1 cursor-pointer form-label&quot;]</value>
+      <webElementGuid>6f86fabc-6861-4598-a8b5-535ce8455d13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-top']/div/div/div/div/div[2]/div/div[2]/div/button[3]/label</value>
+      <webElementGuid>c34dc28c-9deb-49c1-81d1-8b90e80fcdc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/following::label[1]</value>
+      <webElementGuid>5fa49286-99a9-456a-aba6-33b3182294fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::label[2]</value>
+      <webElementGuid>7e5d625c-7dad-4dd1-becf-c9d01c5616db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::label[1]</value>
+      <webElementGuid>e48b4feb-152d-4238-8939-c0936523c834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text Input'])[1]/preceding::label[2]</value>
+      <webElementGuid>48a69ce3-53fb-486f-b27e-25f68a17a2e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>55a69867-38ba-4058-aeca-617456f36261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/label</value>
+      <webElementGuid>1abeb0ac-bad3-4434-985f-5e2c585d856c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>1d4906aa-f63e-43f5-88d6-2d39551787af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

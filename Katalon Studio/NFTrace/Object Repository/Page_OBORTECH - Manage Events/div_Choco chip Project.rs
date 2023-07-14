@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Choco chip Project</name>
+   <tag></tag>
+   <elementGuidId>d769ccaf-e1a3-4234-b66b-e2055c6e4d84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-10.pl-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='1799']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>634eba64-3a53-4157-8716-fe5075a43ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-10 pl-2</value>
+      <webElementGuid>e328ad51-6400-4a90-8d79-7b04b94e26de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choco chip Project</value>
+      <webElementGuid>4871b386-b6d2-42bf-b2a3-cf654aca57d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1799&quot;)/div[@class=&quot;col-sm-10 pl-2&quot;]</value>
+      <webElementGuid>84762b9e-57a9-43ad-b91d-2aca2aea39fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='1799']/div</value>
+      <webElementGuid>32bac387-334d-4bdd-95ba-94fb08d68a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transporter | Jason'])[1]/following::div[3]</value>
+      <webElementGuid>fc4608ea-25e0-4cd9-ad11-7dd4e449d9f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watch all'])[1]/following::div[4]</value>
+      <webElementGuid>3c39a197-2e30-499c-9723-51decfee37bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bottle Management'])[1]/preceding::div[1]</value>
+      <webElementGuid>21e92034-3a34-4a2f-b3e9-fd9d3f5bc5ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li/div</value>
+      <webElementGuid>b4bc4c53-431d-4fe9-8976-c2504c0d6927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Choco chip Project' or . = 'Choco chip Project')]</value>
+      <webElementGuid>0a211d2c-c49d-450e-af1a-00e866af93f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='accordionSidebar']/li/form/div/div[2]</value>
+      <webElementGuid>0c84428e-ff83-4fc6-912c-82b2f129eef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watch all'])[1]/preceding::div[1]</value>
+      <webElementGuid>d908f1ed-6159-4060-83c2-8c61a0596be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]</value>
+      <webElementGuid>cafbef88-4c98-471b-ac36-680879ce109a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Choco chip Project ' or . = 'Choco chip Project ')]</value>
+      <webElementGuid>0135c2a9-f261-4f7a-b28f-d52734c5fa21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

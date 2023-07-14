@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Create Organization,Chrome 114.0.0.0,,,2023-06-14 11:45:47,2023-06-14 11:46:05,18.445s,FAILED
+,,,,,,,
+Test Cases/NFTrace/Login Logout Register/Login,Chrome 114.0.0.0,,,2023-06-14 11:45:47,2023-06-14 11:45:53,5.445s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-14 11:45:47,2023-06-14 11:45:50,2.381s,PASSED
+"navigateToUrl(""https://app.ccltrace.com/login"", STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-14 11:45:50,2023-06-14 11:45:51,0.637s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-06-14 11:45:51,2023-06-14 11:45:51,0.161s,PASSED
+"setText(findTestObject(""Object Repository/login Page_/input_Email_email""), ""superadmin@chaincodeconsulting.com"")",Chrome 114.0.0.0,,,2023-06-14 11:45:51,2023-06-14 11:45:52,0.948s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/login Page_/input_Password_password""), ""lt7kXPiIKwaT+RdC1Uoh9g=="", CONTINUE_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-14 11:45:52,2023-06-14 11:45:52,0.508s,PASSED
+"click(findTestObject(""Object Repository/login Page_/button_Login""))",Chrome 114.0.0.0,,,2023-06-14 11:45:52,2023-06-14 11:45:53,0.466s,PASSED
+,,,,,,,
+Test Cases/NFTrace/SUPER ADMIN/Create Organization,Chrome 114.0.0.0,,,2023-06-14 11:45:53,2023-06-14 11:46:01,8.448s,PASSED
+"click(findTestObject(""Object Repository/logout page/a_Organizations""))",Chrome 114.0.0.0,,,2023-06-14 11:45:53,2023-06-14 11:45:54,1.627s,PASSED
+"click(findTestObject(""Object Repository/NFTrace - Organizations/button_Create Organization""))",Chrome 114.0.0.0,,,2023-06-14 11:45:54,2023-06-14 11:45:55,0.867s,PASSED
+"setText(findTestObject(""Object Repository/NFTrace - Organizations/input__organizationName""), ""Falcon  University"")",Chrome 114.0.0.0,,,2023-06-14 11:45:55,2023-06-14 11:45:56,0.960s,PASSED
+"selectOptionByIndex(findTestObject(""NFTrace - Organizations/select_Select Organization typeSupply Chain_735ca9""), ""2"", STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-14 11:45:56,2023-06-14 11:45:57,1.035s,PASSED
+"setText(findTestObject(""Object Repository/NFTrace - Organizations/input__email""), ""Falcon@gotgel.org"")",Chrome 114.0.0.0,,,2023-06-14 11:45:57,2023-06-14 11:45:58,0.906s,PASSED
+"setText(findTestObject(""Object Repository/NFTrace - Organizations/input__phone""), ""9535225610"")",Chrome 114.0.0.0,,,2023-06-14 11:45:58,2023-06-14 11:45:59,0.859s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/NFTrace - Organizations/input__password""), ""lubJgWeNoDywD0cxuuK8nQ=="")",Chrome 114.0.0.0,,,2023-06-14 11:45:59,2023-06-14 11:46:00,0.467s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/NFTrace - Organizations/input__confirmPassword""), ""lubJgWeNoDywD0cxuuK8nQ=="")",Chrome 114.0.0.0,,,2023-06-14 11:46:00,2023-06-14 11:46:00,0.601s,PASSED
+"uploadFile(findTestObject(""image/image/input__file upload_file""), ""C:\Users\MD Rahil\Desktop\NFTrace images\reva.jpg"")",Chrome 114.0.0.0,,,2023-06-14 11:46:00,2023-06-14 11:46:01,0.480s,PASSED
+"click(findTestObject(""Object Repository/NFTrace - Organizations/button_Submit""))",Chrome 114.0.0.0,,,2023-06-14 11:46:01,2023-06-14 11:46:01,0.384s,PASSED
+,,,,,,,
+Test Cases/NFTrace/Login Logout Register/logout,Chrome 114.0.0.0,,,2023-06-14 11:46:01,2023-06-14 11:46:05,4.300s,FAILED
+"click(findTestObject(""Object Repository/logout page/button_Planner_d-flex justify-content-cente_308e09""))",Chrome 114.0.0.0,,,2023-06-14 11:46:01,2023-06-14 11:46:05,3.985s,FAILED

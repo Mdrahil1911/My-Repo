@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Create Organization,Chrome 114.0.0.0,,,2023-06-13 15:39:27,2023-06-13 15:39:44,16.346s,PASSED
+,,,,,,,
+Test Cases/NFTrace/Login Logout Register/Login,Chrome 114.0.0.0,,,2023-06-13 15:39:28,2023-06-13 15:39:35,7.212s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-13 15:39:28,2023-06-13 15:39:31,2.911s,PASSED
+"navigateToUrl(URL, CONTINUE_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-13 15:39:31,2023-06-13 15:39:32,1.416s,PASSED
+"setText(findTestObject(""Object Repository/login Page_/input_Email_email""), ""superadmin@chaincodeconsulting.com"")",Chrome 114.0.0.0,,,2023-06-13 15:39:32,2023-06-13 15:39:34,1.291s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/login Page_/input_Password_password""), ""lt7kXPiIKwaT+RdC1Uoh9g=="", CONTINUE_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-13 15:39:34,2023-06-13 15:39:34,0.777s,PASSED
+"click(findTestObject(""Object Repository/login Page_/button_Login""))",Chrome 114.0.0.0,,,2023-06-13 15:39:34,2023-06-13 15:39:35,0.441s,PASSED
+,,,,,,,
+Test Cases/NFTrace/SUPER ADMIN/Create Organization,Chrome 114.0.0.0,,,2023-06-13 15:39:35,2023-06-13 15:39:44,8.859s,PASSED
+"click(findTestObject(""Object Repository/logout page/a_Organizations""))",Chrome 114.0.0.0,,,2023-06-13 15:39:35,2023-06-13 15:39:37,1.775s,PASSED
+"click(findTestObject(""Object Repository/NFTrace - Organizations/button_Create Organization""))",Chrome 114.0.0.0,,,2023-06-13 15:39:37,2023-06-13 15:39:38,0.871s,PASSED
+"setText(findTestObject(""Object Repository/NFTrace - Organizations/input__organizationName""), ""Reva University"")",Chrome 114.0.0.0,,,2023-06-13 15:39:38,2023-06-13 15:39:39,1.003s,PASSED
+"selectOptionByIndex(findTestObject(""NFTrace - Organizations/select_Select Organization typeSupply Chain_735ca9""), ""2"", STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-13 15:39:39,2023-06-13 15:39:40,1.174s,PASSED
+"setText(findTestObject(""Object Repository/NFTrace - Organizations/input__email""), ""Revauniversity@gotgel.org"")",Chrome 114.0.0.0,,,2023-06-13 15:39:40,2023-06-13 15:39:41,0.868s,PASSED
+"setText(findTestObject(""Object Repository/NFTrace - Organizations/input__phone""), ""+91 95352-25618"")",Chrome 114.0.0.0,,,2023-06-13 15:39:41,2023-06-13 15:39:42,0.852s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/NFTrace - Organizations/input__password""), ""lubJgWeNoDywD0cxuuK8nQ=="")",Chrome 114.0.0.0,,,2023-06-13 15:39:42,2023-06-13 15:39:42,0.566s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/NFTrace - Organizations/input__confirmPassword""), ""lubJgWeNoDywD0cxuuK8nQ=="")",Chrome 114.0.0.0,,,2023-06-13 15:39:42,2023-06-13 15:39:43,0.553s,PASSED
+"uploadFile(findTestObject(""image/image/input__file upload_file""), ""C:\Users\MD Rahil\Desktop\NFTrace images\reva.jpg"")",Chrome 114.0.0.0,,,2023-06-13 15:39:43,2023-06-13 15:39:43,0.485s,PASSED
+"click(findTestObject(""Object Repository/NFTrace - Organizations/button_Submit""))",Chrome 114.0.0.0,,,2023-06-13 15:39:43,2023-06-13 15:39:44,0.357s,PASSED

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Text Input_btn is-isolated</name>
+   <tag></tag>
+   <elementGuidId>8cd8731b-4329-4f8b-89f8-590cca65d26b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-top']/div/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div/div[2]/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn.is-isolated</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>36c090f1-78d8-4bf6-95af-c33531b3aab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn is-isolated</value>
+      <webElementGuid>2295d030-722c-42ec-83fc-11d76ef022d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-top&quot;)/div[1]/div[@class=&quot;page-top-main-div&quot;]/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;form-builder-container&quot;]/div[@class=&quot;w-100 overflow-hidden bg-transparent shadow-none card&quot;]/div[@class=&quot;p-4 card-body&quot;]/div[2]/div[@class=&quot;form-builder-middle-box mt-4&quot;]/div[@class=&quot;form-builder-middle-left-box-section mb-3&quot;]/div[1]/div[@class=&quot;react-form-builder clearfix&quot;]/div[@class=&quot;col-md-9 react-form-builder-preview float-left&quot;]/div[@class=&quot;Sortable&quot;]/div[1]/div[@class=&quot;SortableItem rfb-item has-clicked&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;toolbar-header&quot;]/div[@class=&quot;toolbar-header-buttons&quot;]/div[@class=&quot;btn is-isolated&quot;]</value>
+      <webElementGuid>0f542671-f2b2-427b-99d5-00379b005720</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-top']/div/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>2f70f3f4-35e7-4777-b443-e7ece303e551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text Input'])[1]/following::div[2]</value>
+      <webElementGuid>dad34823-746d-4dd1-b074-edd6b1ad2a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::div[13]</value>
+      <webElementGuid>e09714ec-326e-440c-805d-1a3a50885b83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Placeholder Label'])[1]/preceding::div[2]</value>
+      <webElementGuid>da6997c7-9dce-4af9-8fac-cb6ddc8af93d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number Input'])[1]/preceding::div[3]</value>
+      <webElementGuid>1d069ab7-3682-4048-aea9-42c93ee9467e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>2aa869bd-ced9-420c-a95e-664237b34a8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

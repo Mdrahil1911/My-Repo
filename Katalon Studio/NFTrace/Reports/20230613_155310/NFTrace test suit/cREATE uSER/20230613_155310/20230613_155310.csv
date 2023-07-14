@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+cREATE uSER,Chrome 114.0.0.0,,,2023-06-13 15:53:17,2023-06-13 15:53:31,14.389s,PASSED
+,,,,,,,
+Test Cases/NFTrace/Login Logout Register/Login,Chrome 114.0.0.0,,,2023-06-13 15:53:17,2023-06-13 15:53:22,5.143s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-13 15:53:17,2023-06-13 15:53:19,2.216s,PASSED
+"navigateToUrl(URL, CONTINUE_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-13 15:53:19,2023-06-13 15:53:20,0.803s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-06-13 15:53:20,2023-06-13 15:53:20,0.168s,PASSED
+"setText(findTestObject(""Object Repository/login Page_/input_Email_email""), ""PES@gotgel.org"")",Chrome 114.0.0.0,,,2023-06-13 15:53:20,2023-06-13 15:53:21,0.814s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/login Page_/input_Password_password""), ""lt7kXPiIKwaT+RdC1Uoh9g=="", CONTINUE_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-13 15:53:21,2023-06-13 15:53:22,0.452s,PASSED
+"click(findTestObject(""Object Repository/login Page_/button_Login""))",Chrome 114.0.0.0,,,2023-06-13 15:53:22,2023-06-13 15:53:22,0.399s,PASSED
+,,,,,,,
+Test Cases/NFTrace/Organization/Create User,Chrome 114.0.0.0,,,2023-06-13 15:53:22,2023-06-13 15:53:31,8.987s,PASSED
+"click(findTestObject(""Object Repository/create user/Page_NFTrace - Users/button_Create User""))",Chrome 114.0.0.0,,,2023-06-13 15:53:22,2023-06-13 15:53:24,2.056s,PASSED
+"setText(findTestObject(""Object Repository/create user/Page_NFTrace - Users/input__firstName""), ""	Noah"")",Chrome 114.0.0.0,,,2023-06-13 15:53:24,2023-06-13 15:53:25,0.812s,PASSED
+"setText(findTestObject(""Object Repository/create user/Page_NFTrace - Users/input__lastName""), ""	Olivia"")",Chrome 114.0.0.0,,,2023-06-13 15:53:25,2023-06-13 15:53:26,0.866s,PASSED
+"setText(findTestObject(""Object Repository/create user/Page_NFTrace - Users/input__email""), """")",Chrome 114.0.0.0,,,2023-06-13 15:53:26,2023-06-13 15:53:27,0.791s,PASSED
+"click(findTestObject(""Object Repository/create user/Page_NFTrace - Users/input__email""))",Chrome 114.0.0.0,,,2023-06-13 15:53:27,2023-06-13 15:53:27,0.372s,PASSED
+"setText(findTestObject(""Object Repository/create user/Page_NFTrace - Users/input__email""), ""noah@gotgel.org"")",Chrome 114.0.0.0,,,2023-06-13 15:53:27,2023-06-13 15:53:28,0.726s,PASSED
+"setText(findTestObject(""Object Repository/create user/Page_NFTrace - Users/input__phone""), ""9536548964"")",Chrome 114.0.0.0,,,2023-06-13 15:53:28,2023-06-13 15:53:29,0.876s,PASSED
+"click(findTestObject(""Object Repository/Page_NFTrace - Users/input_Wallet Address_form-check-input""))",Chrome 114.0.0.0,,,2023-06-13 15:53:29,2023-06-13 15:53:29,0.376s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/create user/Page_NFTrace - Users/input__password""), ""lubJgWeNoDywD0cxuuK8nQ=="")",Chrome 114.0.0.0,,,2023-06-13 15:53:29,2023-06-13 15:53:30,0.434s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/create user/Page_NFTrace - Users/input__confirmPassword""), ""lubJgWeNoDywD0cxuuK8nQ=="")",Chrome 114.0.0.0,,,2023-06-13 15:53:30,2023-06-13 15:53:30,0.541s,PASSED
+"uploadFile(findTestObject(""image/image/input__file upload_file""), ""C:\Users\MD Rahil\Desktop\NFTrace images\download.jpg"")",Chrome 114.0.0.0,,,2023-06-13 15:53:30,2023-06-13 15:53:31,0.494s,PASSED
+"click(findTestObject(""Object Repository/create user/Page_NFTrace - Users/button_Submit""))",Chrome 114.0.0.0,,,2023-06-13 15:53:31,2023-06-13 15:53:31,0.391s,PASSED

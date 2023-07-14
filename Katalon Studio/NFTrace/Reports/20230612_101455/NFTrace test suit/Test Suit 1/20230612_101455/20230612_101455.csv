@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suit 1,Chrome 114.0.0.0,,,2023-06-12 10:15:05,2023-06-12 10:15:47,42.616s,FAILED
+,,,,,,,
+Test Cases/Login,Chrome 114.0.0.0,,,2023-06-12 10:15:05,2023-06-12 10:15:46,40.965s,FAILED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-12 10:15:06,2023-06-12 10:15:09,3.488s,PASSED
+"navigateToUrl(""https://app.ccltrace.com/login"")",Chrome 114.0.0.0,,,2023-06-12 10:15:09,2023-06-12 10:15:10,0.948s,PASSED
+"setText(findTestObject(""Object Repository/Page_/input_Email_email""), ""superadmin@chaincodeconsulting.com"")",Chrome 114.0.0.0,,,2023-06-12 10:15:10,2023-06-12 10:15:11,1.083s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_/input_Password_password""), ""lt7kXPiIKwaT+RdC1Uoh9g=="", CONTINUE_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-12 10:15:11,2023-06-12 10:15:43,31.487s,FAILED
+"click(findTestObject(""Object Repository/Page_/button_Login""))",Chrome 114.0.0.0,,,2023-06-12 10:15:43,2023-06-12 10:15:46,3.491s,FAILED
+,,,,,,,
+Test Cases/create organization,Chrome 114.0.0.0,,,2023-06-12 10:15:46,2023-06-12 10:15:47,0.601s,FAILED
+"click(findTestObject(""Object Repository/Page_NFTrace - Projects/a_Organizations""))",Chrome 114.0.0.0,,,2023-06-12 10:15:47,2023-06-12 10:15:47,0.120s,FAILED
+,,,,,,,
+Test Cases/logout,Chrome 114.0.0.0,,,2023-06-12 10:15:47,2023-06-12 10:15:47,0.691s,FAILED
+"click(findTestObject(""Object Repository/Page_NFTrace - Projects/button_Planner_d-flex justify-content-cente_308e09""))",Chrome 114.0.0.0,,,2023-06-12 10:15:47,2023-06-12 10:15:47,0.139s,FAILED

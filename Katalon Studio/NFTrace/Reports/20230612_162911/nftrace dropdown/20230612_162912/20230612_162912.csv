@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+nftrace dropdown,Chrome 114.0.0.0,,,2023-06-12 16:29:17,2023-06-12 16:29:31,13.826s,PASSED
+,,,,,,,
+Test Cases/NFTrace/SUPER ADMIN/super admin login,Chrome 114.0.0.0,,,2023-06-12 16:29:18,2023-06-12 16:29:23,5.147s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-12 16:29:18,2023-06-12 16:29:20,2.326s,PASSED
+"navigateToUrl(""https://app.ccltrace.com/login"")",Chrome 114.0.0.0,,,2023-06-12 16:29:20,2023-06-12 16:29:21,0.647s,PASSED
+"setText(findTestObject(""Object Repository/login Page_/input_Email_email""), ""superadmin@chaincodeconsulting.com"")",Chrome 114.0.0.0,,,2023-06-12 16:29:21,2023-06-12 16:29:22,0.997s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/login Page_/input_Password_password""), ""lt7kXPiIKwaT+RdC1Uoh9g=="", CONTINUE_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-12 16:29:22,2023-06-12 16:29:22,0.501s,PASSED
+"click(findTestObject(""Object Repository/login Page_/button_Login""))",Chrome 114.0.0.0,,,2023-06-12 16:29:22,2023-06-12 16:29:23,0.403s,PASSED
+,,,,,,,
+Test Cases/NFTrace/SUPER ADMIN/duplicate create dropdown,Chrome 114.0.0.0,,,2023-06-12 16:29:23,2023-06-12 16:29:31,8.417s,PASSED
+"click(findTestObject(""Object Repository/logout page/a_Organizations""))",Chrome 114.0.0.0,,,2023-06-12 16:29:23,2023-06-12 16:29:25,1.462s,PASSED
+"click(findTestObject(""Object Repository/NFTrace - Organizations/button_Create Organization""))",Chrome 114.0.0.0,,,2023-06-12 16:29:25,2023-06-12 16:29:26,0.976s,PASSED
+"setText(findTestObject(""Object Repository/NFTrace - Organizations/input__organizationName""), ""London University"")",Chrome 114.0.0.0,,,2023-06-12 16:29:26,2023-06-12 16:29:26,0.920s,PASSED
+"selectOptionByIndex(findTestObject(""NFTrace - Organizations/select_Select Organization typeSupply Chain_735ca9""), ""3"", STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-12 16:29:26,2023-06-12 16:29:28,1.126s,PASSED
+"setText(findTestObject(""Object Repository/NFTrace - Organizations/input__email""), ""london@gotgel.org"")",Chrome 114.0.0.0,,,2023-06-12 16:29:28,2023-06-12 16:29:28,0.842s,PASSED
+"setText(findTestObject(""Object Repository/NFTrace - Organizations/input__phone""), ""+91 95352-25614"")",Chrome 114.0.0.0,,,2023-06-12 16:29:28,2023-06-12 16:29:29,0.850s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/NFTrace - Organizations/input__password""), ""lubJgWeNoDywD0cxuuK8nQ=="")",Chrome 114.0.0.0,,,2023-06-12 16:29:29,2023-06-12 16:29:30,0.550s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/NFTrace - Organizations/input__confirmPassword""), ""lubJgWeNoDywD0cxuuK8nQ=="")",Chrome 114.0.0.0,,,2023-06-12 16:29:30,2023-06-12 16:29:30,0.575s,PASSED
+"uploadFile(findTestObject(""image/image/input__file upload_file""), ""C:\Users\MD Rahil\Desktop\NFTrace images\focus.png"")",Chrome 114.0.0.0,,,2023-06-12 16:29:30,2023-06-12 16:29:31,0.490s,PASSED
+"click(findTestObject(""Object Repository/NFTrace - Organizations/button_Submit""))",Chrome 114.0.0.0,,,2023-06-12 16:29:31,2023-06-12 16:29:31,0.357s,PASSED

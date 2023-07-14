@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Add Code_fas fa-qrcode</name>
+   <tag></tag>
+   <elementGuidId>223ed777-bb84-4f86-8a96-9440e2cd53c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(6) > i.fas.fa-qrcode</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='event']/div/div/div/div/div/div/div[6]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6869823e-1c7a-47b2-a119-c885a50ec199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-qrcode</value>
+      <webElementGuid>8b80831b-6b62-47e5-bfbd-c901db4caa54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;event&quot;)/div[@class=&quot;row d-flex event-listing&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;main-card card&quot;]/div[@class=&quot;show-hide-popup&quot;]/div[@class=&quot;event-filter&quot;]/div[@class=&quot;d-flex flex-wrap&quot;]/div[6]/i[@class=&quot;fas fa-qrcode&quot;]</value>
+      <webElementGuid>61d4951a-c4a3-4354-b263-1f9b6a3f435e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='event']/div/div/div/div/div/div/div[6]/i</value>
+      <webElementGuid>e7202a1a-5974-418b-885c-fcb323cf22f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/i</value>
+      <webElementGuid>c20442e7-8e7d-466b-835e-075151d7e01d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/i</value>
+      <webElementGuid>f39ab7a1-1ef6-48fc-802c-f32371c709d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

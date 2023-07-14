@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_All Group 1</name>
+   <tag></tag>
+   <elementGuidId>0bde9657-9e5d-4ad1-96bc-ba90a926a192</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='containerNameSelect']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b8eafe53-ecd1-47ed-8aba-b133aaaffb0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1hwfws3</value>
+      <webElementGuid>5481f48f-eba9-4097-9928-3ea00646ead0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Group 1</value>
+      <webElementGuid>a99ab846-cbb7-4775-b75e-9687950d636c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;containerNameSelect&quot;)/div[@class=&quot;css-2b097c-container&quot;]/div[@class=&quot;css-6w4mjp-control&quot;]/div[@class=&quot;css-1hwfws3&quot;]</value>
+      <webElementGuid>c4d5186b-52e5-4b31-bd01-b67ae0b52a13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='containerNameSelect']/div/div/div</value>
+      <webElementGuid>ce583eec-e5bd-4578-b1b4-5cf1d383aa72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Group 2'])[1]/following::div[9]</value>
+      <webElementGuid>56bbdfd1-aa5d-40be-989b-1794a125e15d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Group 3'])[1]/following::div[19]</value>
+      <webElementGuid>32d2822e-025f-4d3d-be4e-2e4ecd68dc93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Group 1'])[2]/preceding::div[7]</value>
+      <webElementGuid>babce4c8-8db0-4d1c-bb1c-a0820690998a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>aa572e2f-3b7b-42c4-846d-6c4aa85d9bc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'All Group 1' or . = 'All Group 1')]</value>
+      <webElementGuid>3c288b51-02bb-4612-86e5-30e02359ba85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add Station category
+Submit station</description>
+   <name>Station Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0430a7c-917c-416c-9331-bc6ea746f6dd</testCaseGuid>
+</TestCaseEntity>

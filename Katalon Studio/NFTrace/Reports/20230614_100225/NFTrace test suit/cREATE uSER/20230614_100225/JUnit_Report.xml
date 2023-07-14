@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="cREATE uSER" time="15.265" tests="2" failures="1" errors="0">
+   <testsuite name="cREATE uSER" tests="2" failures="1" errors="0" time="15.265" skipped="0" timestamp="2023-06-14 10:02:31" hostname="MD Rahil - CCLNiranjan" id="Test Suites/NFTrace test suit/cREATE uSER">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\MD Rahil\\Katalon Studio\\NFTrace\\Reports\\20230614_100225\\NFTrace test suit\\cREATE uSER\\20230614_100225"/>
+         <property name="logFiles" value="C:\\Users\\MD Rahil\\Katalon Studio\\NFTrace\\Reports\\20230614_100225\\NFTrace test suit\\cREATE uSER\\20230614_100225\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\MD Rahil\\Katalon Studio\\NFTrace\\Reports\\20230614_100225\\NFTrace test suit\\cREATE uSER\\20230614_100225\\1686717167032.png"/>
+         <property name="hostName" value="MD Rahil - CCLNiranjan"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.211"/>
+         <property name="sessionId" value="4162dffc64110b693e24ac592b9c5d8d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/NFTrace/Login Logout Register/Login" time="5.41" classname="Test Cases/NFTrace/Login Logout Register/Login" status="PASSED">
+         <system-out><![CDATA[2023-06-14 10:02:32 - [TEST_CASE][PASSED] - Test Cases/NFTrace/Login Logout Register/Login: Test Cases/NFTrace/Login Logout Register/Login
+
+2023-06-14 10:02:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-14 10:02:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-14 10:02:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-14 10:02:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-14 10:02:34 - [TEST_STEP][PASSED] - navigateToUrl("https://app.ccltrace.com/login", STOP_ON_FAILURE): Navigate to 'https://app.ccltrace.com/login' successfully
+
+2023-06-14 10:02:35 - [MESSAGE][PASSED] - Navigate to 'https://app.ccltrace.com/login' successfully
+
+2023-06-14 10:02:35 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-14 10:02:35 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-14 10:02:35 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/login Page_/input_Email_email"), "PES@gotgel.org"): Text 'PES@gotgel.org' is set on object 'Object Repository/login Page_/input_Email_email'
+
+2023-06-14 10:02:36 - [MESSAGE][PASSED] - Text 'PES@gotgel.org' is set on object 'Object Repository/login Page_/input_Email_email'
+
+2023-06-14 10:02:36 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/login Page_/input_Password_password"), "lt7kXPiIKwaT+RdC1Uoh9g==", CONTINUE_ON_FAILURE): Text ****** has been set on object 'Object Repository/login Page_/input_Password_password'
+
+2023-06-14 10:02:37 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/login Page_/input_Password_password'
+
+2023-06-14 10:02:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/login Page_/button_Login")): Object: 'Object Repository/login Page_/button_Login' is clicked on
+
+2023-06-14 10:02:37 - [MESSAGE][PASSED] - Object: 'Object Repository/login Page_/button_Login' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/NFTrace/Organization/Create User" time="9.641" classname="Test Cases/NFTrace/Organization/Create User" status="FAILED">
+         <failure type="FAILED" message="Test Cases/NFTrace/Organization/Create User FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify text 'User created successfully' is present 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1723)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyTextPresent$7.call(Unknown Source)
+	at Create User.run(Create User:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686717145169.run(TempTestSuite1686717145169.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Text 'User created successfully' is not present on page 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2023-06-14 10:02:37 - [TEST_CASE][FAILED] - Test Cases/NFTrace/Organization/Create User: Test Cases/NFTrace/Organization/Create User FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify text 'User created successfully' is present 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1723)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyTextPresent$7.call(Unknown Source)
+	at Create User.run(Create User:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686717145169.run(TempTestSuite1686717145169.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Text 'User created successfully' is not present on page 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2023-06-14 10:02:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_NFTrace - Users/button_Create User")): Object: 'Object Repository/Page_NFTrace - Users/button_Create User' is clicked on
+
+2023-06-14 10:02:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_NFTrace - Users/button_Create User' is clicked on
+
+2023-06-14 10:02:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_NFTrace - Users/input__firstName"), "noah"): Text 'noah' is set on object 'Object Repository/Page_NFTrace - Users/input__firstName'
+
+2023-06-14 10:02:40 - [MESSAGE][PASSED] - Text 'noah' is set on object 'Object Repository/Page_NFTrace - Users/input__firstName'
+
+2023-06-14 10:02:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_NFTrace - Users/input__lastName"), "olivia"): Text 'olivia' is set on object 'Object Repository/Page_NFTrace - Users/input__lastName'
+
+2023-06-14 10:02:41 - [MESSAGE][PASSED] - Text 'olivia' is set on object 'Object Repository/Page_NFTrace - Users/input__lastName'
+
+2023-06-14 10:02:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_NFTrace - Users/input__email"), "noah@gotgel.org"): Text 'noah@gotgel.org' is set on object 'Object Repository/Page_NFTrace - Users/input__email'
+
+2023-06-14 10:02:42 - [MESSAGE][PASSED] - Text 'noah@gotgel.org' is set on object 'Object Repository/Page_NFTrace - Users/input__email'
+
+2023-06-14 10:02:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/create user/Page_NFTrace - Users/input__phone"), "9536548964"): Text '9536548964' is set on object 'Object Repository/create user/Page_NFTrace - Users/input__phone'
+
+2023-06-14 10:02:43 - [MESSAGE][PASSED] - Text '9536548964' is set on object 'Object Repository/create user/Page_NFTrace - Users/input__phone'
+
+2023-06-14 10:02:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_NFTrace - Users/input_Wallet Address_form-check-input")): Object: 'Object Repository/Page_NFTrace - Users/input_Wallet Address_form-check-input' is clicked on
+
+2023-06-14 10:02:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_NFTrace - Users/input_Wallet Address_form-check-input' is clicked on
+
+2023-06-14 10:02:43 - [TEST_STEP][PASSED] - click(findTestObject("create user/Page_NFTrace - Users/input_Wallet Address_form-check-input")): Object: 'Object Repository/create user/Page_NFTrace - Users/input_Wallet Address_form-check-input' is clicked on
+
+2023-06-14 10:02:44 - [MESSAGE][PASSED] - Object: 'Object Repository/create user/Page_NFTrace - Users/input_Wallet Address_form-check-input' is clicked on
+
+2023-06-14 10:02:44 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_NFTrace - Users/input__password"), "lt7kXPiIKwaT+RdC1Uoh9g=="): Text ****** has been set on object 'Object Repository/Page_NFTrace - Users/input__password'
+
+2023-06-14 10:02:44 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_NFTrace - Users/input__password'
+
+2023-06-14 10:02:44 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_NFTrace - Users/input__confirmPassword"), "lt7kXPiIKwaT+RdC1Uoh9g=="): Text ****** has been set on object 'Object Repository/Page_NFTrace - Users/input__confirmPassword'
+
+2023-06-14 10:02:45 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_NFTrace - Users/input__confirmPassword'
+
+2023-06-14 10:02:45 - [TEST_STEP][PASSED] - uploadFile(findTestObject("image/image/input__file upload_file"), "C:\Users\MD Rahil\Desktop\NFTrace images\download.jpg"): File 'C:\Users\MD Rahil\Desktop\NFTrace images\download.jpg' sent to object: 'Object Repository/image/image/input__file upload_file'
+
+2023-06-14 10:02:45 - [MESSAGE][PASSED] - File 'C:\Users\MD Rahil\Desktop\NFTrace images\download.jpg' sent to object: 'Object Repository/image/image/input__file upload_file'
+
+2023-06-14 10:02:45 - [TEST_STEP][PASSED] - click(findTestObject("create user/Page_NFTrace - Users/button_Submit")): Object: 'Object Repository/create user/Page_NFTrace - Users/button_Submit' is clicked on
+
+2023-06-14 10:02:46 - [MESSAGE][PASSED] - Object: 'Object Repository/create user/Page_NFTrace - Users/button_Submit' is clicked on
+
+2023-06-14 10:02:46 - [TEST_STEP][FAILED] - verifyTextPresent("User created successfully", false): Unable to verify text 'User created successfully' is present  (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify text 'User created successfully' is present 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1723)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyTextPresent$7.call(Unknown Source)
+	at Create User.run(Create User:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686717145169.run(TempTestSuite1686717145169.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Text 'User created successfully' is not present on page 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+)
+
+2023-06-14 10:02:47 - [MESSAGE][FAILED] - Text 'User created successfully' is not present on page  (Root cause: com.kms.katalon.core.exception.StepFailedException: Text 'User created successfully' is not present on page 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1723)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyTextPresent$7.call(Unknown Source)
+	at Create User.run(Create User:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686717145169.run(TempTestSuite1686717145169.groovy:36)
+)
+
+2023-06-14 10:02:47 - [MESSAGE][FAILED] - Unable to verify text 'User created successfully' is present  (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify text 'User created successfully' is present 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1723)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyTextPresent$7.call(Unknown Source)
+	at Create User.run(Create User:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686717145169.run(TempTestSuite1686717145169.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Text 'User created successfully' is not present on page 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+)
+[[ATTACHMENT|C:\\Users\\MD Rahil\\Katalon Studio\\NFTrace\\Reports\\20230614_100225\\NFTrace test suit\\cREATE uSER\\20230614_100225\\1686717167032.png]]]]></system-out>
+         <system-err><![CDATA[2023-06-14 10:02:37 - [TEST_CASE][FAILED] - Test Cases/NFTrace/Organization/Create User: Test Cases/NFTrace/Organization/Create User FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify text 'User created successfully' is present 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1723)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyTextPresent$7.call(Unknown Source)
+	at Create User.run(Create User:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686717145169.run(TempTestSuite1686717145169.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Text 'User created successfully' is not present on page 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-14 10:02:31 - [TEST_SUITE][FAILED] - cREATE uSER: Test Cases/NFTrace/Organization/Create User FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify text 'User created successfully' is present 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1723)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyTextPresent$7.call(Unknown Source)
+	at Create User.run(Create User:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686717145169.run(TempTestSuite1686717145169.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Text 'User created successfully' is not present on page 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2023-06-14 10:02:31 - [TEST_SUITE][FAILED] - cREATE uSER: Test Cases/NFTrace/Organization/Create User FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify text 'User created successfully' is present 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1723)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyTextPresent$7.call(Unknown Source)
+	at Create User.run(Create User:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686717145169.run(TempTestSuite1686717145169.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Text 'User created successfully' is not present on page 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

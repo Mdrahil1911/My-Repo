@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Placeholder Label</name>
+   <tag></tag>
+   <elementGuidId>ea1f02eb-40ba-4fe4-8faf-c70003133502</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rdw-wrapper-507']/div[2]/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.public-DraftStyleDefault-block.public-DraftStyleDefault-ltr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b0aa4df-5207-4d67-a22e-05abd8c9eae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-offset-key</name>
+      <type>Main</type>
+      <value>7nf0r-0-0</value>
+      <webElementGuid>5977e188-3fd7-4fe1-ad56-cc0a64ca2c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>public-DraftStyleDefault-block public-DraftStyleDefault-ltr</value>
+      <webElementGuid>0f2c05b1-fe2d-4c08-8715-70eadc6d9a05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Placeholder Label</value>
+      <webElementGuid>ae99af22-e456-4e65-bd30-c1e9b66e569d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rdw-wrapper-507&quot;)/div[@class=&quot;rdw-editor-main&quot;]/div[@class=&quot;DraftEditor-root&quot;]/div[@class=&quot;DraftEditor-editorContainer&quot;]/div[@class=&quot;notranslate public-DraftEditor-content&quot;]/div[1]/div[1]/div[@class=&quot;public-DraftStyleDefault-block public-DraftStyleDefault-ltr&quot;]</value>
+      <webElementGuid>f6753e22-215b-4b13-8ab5-291005fe95f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rdw-wrapper-507']/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>cfe1f191-489d-48eb-b4bd-8299a2873507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display Label'])[1]/following::div[34]</value>
+      <webElementGuid>f692b6a2-d0b6-419b-a78e-e6ebc8c2ece9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text Input'])[1]/following::div[35]</value>
+      <webElementGuid>c295cf7e-d8e5-4721-b547-765498c35448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required'])[1]/preceding::div[1]</value>
+      <webElementGuid>f6a541d7-f51c-42d3-8945-007dcffd9e47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div[2]/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>bd6efd10-3cd2-4e00-a964-bd866e5f1af3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Placeholder Label' or . = 'Placeholder Label')]</value>
+      <webElementGuid>d5968e3c-1ee7-4acf-8553-8c4b80d6edb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

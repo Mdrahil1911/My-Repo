@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="nftrace dropdown" time="15.097" tests="2" failures="0" errors="0">
+   <testsuite name="nftrace dropdown" tests="2" failures="0" errors="0" time="15.097" skipped="0" timestamp="2023-06-12 16:26:24" hostname="MD Rahil - CCLNiranjan" id="Test Suites/nftrace dropdown">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\MD Rahil\\Katalon Studio\\NFTrace\\Reports\\20230612_162616\\nftrace dropdown\\20230612_162617"/>
+         <property name="logFiles" value="C:\\Users\\MD Rahil\\Katalon Studio\\NFTrace\\Reports\\20230612_162616\\nftrace dropdown\\20230612_162617\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="MD Rahil - CCLNiranjan"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.211"/>
+         <property name="sessionId" value="4ea174adf8014fb69abeceb1b32c583d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/NFTrace/SUPER ADMIN/super admin login" time="5.191" classname="Test Cases/NFTrace/SUPER ADMIN/super admin login" status="PASSED">
+         <system-out><![CDATA[2023-06-12 16:26:24 - [TEST_CASE][PASSED] - Test Cases/NFTrace/SUPER ADMIN/super admin login: Test Cases/NFTrace/SUPER ADMIN/super admin login
+
+2023-06-12 16:26:25 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-12 16:26:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-12 16:26:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-12 16:26:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-12 16:26:27 - [TEST_STEP][PASSED] - navigateToUrl("https://app.ccltrace.com/login"): Navigate to 'https://app.ccltrace.com/login' successfully
+
+2023-06-12 16:26:28 - [MESSAGE][PASSED] - Navigate to 'https://app.ccltrace.com/login' successfully
+
+2023-06-12 16:26:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/login Page_/input_Email_email"), "superadmin@chaincodeconsulting.com"): Text 'superadmin@chaincodeconsulting.com' is set on object 'Object Repository/login Page_/input_Email_email'
+
+2023-06-12 16:26:29 - [MESSAGE][PASSED] - Text 'superadmin@chaincodeconsulting.com' is set on object 'Object Repository/login Page_/input_Email_email'
+
+2023-06-12 16:26:29 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/login Page_/input_Password_password"), "lt7kXPiIKwaT+RdC1Uoh9g==", CONTINUE_ON_FAILURE): Text ****** has been set on object 'Object Repository/login Page_/input_Password_password'
+
+2023-06-12 16:26:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/login Page_/input_Password_password'
+
+2023-06-12 16:26:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/login Page_/button_Login")): Object: 'Object Repository/login Page_/button_Login' is clicked on
+
+2023-06-12 16:26:29 - [MESSAGE][PASSED] - Object: 'Object Repository/login Page_/button_Login' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/NFTrace/SUPER ADMIN/duplicate create dropdown" time="9.665" classname="Test Cases/NFTrace/SUPER ADMIN/duplicate create dropdown" status="PASSED">
+         <system-out><![CDATA[2023-06-12 16:26:29 - [TEST_CASE][PASSED] - Test Cases/NFTrace/SUPER ADMIN/duplicate create dropdown: Test Cases/NFTrace/SUPER ADMIN/duplicate create dropdown
+
+2023-06-12 16:26:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/logout page/a_Organizations")): Object: 'Object Repository/logout page/a_Organizations' is clicked on
+
+2023-06-12 16:26:31 - [MESSAGE][PASSED] - Object: 'Object Repository/logout page/a_Organizations' is clicked on
+
+2023-06-12 16:26:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NFTrace - Organizations/button_Create Organization")): Object: 'Object Repository/NFTrace - Organizations/button_Create Organization' is clicked on
+
+2023-06-12 16:26:32 - [MESSAGE][PASSED] - Object: 'Object Repository/NFTrace - Organizations/button_Create Organization' is clicked on
+
+2023-06-12 16:26:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/NFTrace - Organizations/input__organizationName"), "London University"): Text 'London University' is set on object 'Object Repository/NFTrace - Organizations/input__organizationName'
+
+2023-06-12 16:26:33 - [MESSAGE][PASSED] - Text 'London University' is set on object 'Object Repository/NFTrace - Organizations/input__organizationName'
+
+2023-06-12 16:26:33 - [TEST_STEP][PASSED] - selectOptionByIndex(findTestObject("NFTrace - Organizations/select_Select Organization typeSupply Chain_735ca9"), "2", STOP_ON_FAILURE): All options with index in [2] are selected on object 'Object Repository/NFTrace - Organizations/select_Select Organization typeSupply Chain_735ca9'
+
+2023-06-12 16:26:34 - [MESSAGE][PASSED] - All options with index in [2] are selected on object 'Object Repository/NFTrace - Organizations/select_Select Organization typeSupply Chain_735ca9'
+
+2023-06-12 16:26:34 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/NFTrace - Organizations/select_Select Organization typeSupply Chain_735ca9"), "Education", true): All options with value 'Education' are selected in object 'Object Repository/NFTrace - Organizations/select_Select Organization typeSupply Chain_735ca9'  using regular expression
+
+2023-06-12 16:26:35 - [MESSAGE][PASSED] - All options with value 'Education' are selected in object 'Object Repository/NFTrace - Organizations/select_Select Organization typeSupply Chain_735ca9'  using regular expression
+
+2023-06-12 16:26:35 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/NFTrace - Organizations/input__email"), "london@gotgel.org"): Text 'london@gotgel.org' is set on object 'Object Repository/NFTrace - Organizations/input__email'
+
+2023-06-12 16:26:36 - [MESSAGE][PASSED] - Text 'london@gotgel.org' is set on object 'Object Repository/NFTrace - Organizations/input__email'
+
+2023-06-12 16:26:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/NFTrace - Organizations/input__phone"), "+91 95352-25614"): Text '+91 95352-25614' is set on object 'Object Repository/NFTrace - Organizations/input__phone'
+
+2023-06-12 16:26:37 - [MESSAGE][PASSED] - Text '+91 95352-25614' is set on object 'Object Repository/NFTrace - Organizations/input__phone'
+
+2023-06-12 16:26:37 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/NFTrace - Organizations/input__password"), "lubJgWeNoDywD0cxuuK8nQ=="): Text ****** has been set on object 'Object Repository/NFTrace - Organizations/input__password'
+
+2023-06-12 16:26:38 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/NFTrace - Organizations/input__password'
+
+2023-06-12 16:26:38 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/NFTrace - Organizations/input__confirmPassword"), "lubJgWeNoDywD0cxuuK8nQ=="): Text ****** has been set on object 'Object Repository/NFTrace - Organizations/input__confirmPassword'
+
+2023-06-12 16:26:38 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/NFTrace - Organizations/input__confirmPassword'
+
+2023-06-12 16:26:38 - [TEST_STEP][PASSED] - uploadFile(findTestObject("image/image/input__file upload_file"), "C:\Users\MD Rahil\Desktop\NFTrace images\focus.png"): File 'C:\Users\MD Rahil\Desktop\NFTrace images\focus.png' sent to object: 'Object Repository/image/image/input__file upload_file'
+
+2023-06-12 16:26:39 - [MESSAGE][PASSED] - File 'C:\Users\MD Rahil\Desktop\NFTrace images\focus.png' sent to object: 'Object Repository/image/image/input__file upload_file'
+
+2023-06-12 16:26:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NFTrace - Organizations/button_Submit")): Object: 'Object Repository/NFTrace - Organizations/button_Submit' is clicked on
+
+2023-06-12 16:26:39 - [MESSAGE][PASSED] - Object: 'Object Repository/NFTrace - Organizations/button_Submit' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-12 16:26:24 - [TEST_SUITE][PASSED] - nftrace dropdown: Test Cases/NFTrace/SUPER ADMIN/duplicate create dropdown]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

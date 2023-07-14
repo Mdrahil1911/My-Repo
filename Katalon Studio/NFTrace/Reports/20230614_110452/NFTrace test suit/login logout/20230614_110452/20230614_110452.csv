@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+login logout,Chrome 114.0.0.0,,,2023-06-14 11:04:58,2023-06-14 11:05:07,9.490s,PASSED
+,,,,,,,
+Test Cases/NFTrace/Login Logout Register/Login,Chrome 114.0.0.0,,,2023-06-14 11:04:58,2023-06-14 11:05:04,5.806s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-14 11:04:58,2023-06-14 11:05:01,2.890s,PASSED
+"navigateToUrl(""https://app.ccltrace.com/login"", STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-14 11:05:01,2023-06-14 11:05:02,0.611s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-06-14 11:05:02,2023-06-14 11:05:02,0.153s,PASSED
+"setText(findTestObject(""Object Repository/login Page_/input_Email_email""), ""PES@gotgel.org"")",Chrome 114.0.0.0,,,2023-06-14 11:05:02,2023-06-14 11:05:03,0.900s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/login Page_/input_Password_password""), ""lt7kXPiIKwaT+RdC1Uoh9g=="", CONTINUE_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-14 11:05:03,2023-06-14 11:05:03,0.519s,PASSED
+"click(findTestObject(""Object Repository/login Page_/button_Login""))",Chrome 114.0.0.0,,,2023-06-14 11:05:03,2023-06-14 11:05:04,0.440s,PASSED
+,,,,,,,
+Test Cases/NFTrace/Login Logout Register/logout,Chrome 114.0.0.0,,,2023-06-14 11:05:04,2023-06-14 11:05:07,3.438s,PASSED
+"click(findTestObject(""Object Repository/logout page/button_Planner_d-flex justify-content-cente_308e09""))",Chrome 114.0.0.0,,,2023-06-14 11:05:04,2023-06-14 11:05:06,1.948s,PASSED
+"click(findTestObject(""Object Repository/logout page/button_Logout""))",Chrome 114.0.0.0,,,2023-06-14 11:05:06,2023-06-14 11:05:06,0.506s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-14 11:05:06,2023-06-14 11:05:07,0.726s,PASSED

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_obortech</name>
+   <tag></tag>
+   <elementGuidId>5e8d84e6-b3fe-4c85-9877-6320a6214ece</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mr-2.d-none.d-lg-inline.profile-text.small.text-capitalize</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='userDropdown']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>09dcaf8f-45b6-4092-bff8-7abdbe7ed82f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mr-2 d-none d-lg-inline  profile-text small text-capitalize</value>
+      <webElementGuid>ce7ca137-8902-4cb5-83e1-cabbb361156c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>obortech</value>
+      <webElementGuid>292f4200-b287-40c9-9711-1529d8feff06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userDropdown&quot;)/span[@class=&quot;mr-2 d-none d-lg-inline  profile-text small text-capitalize&quot;]</value>
+      <webElementGuid>aada38d4-2deb-4e43-aa8b-96b50f553503</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='userDropdown']/span</value>
+      <webElementGuid>c5b2d494-9c98-4a17-b5fb-300b37601be9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::span[1]</value>
+      <webElementGuid>c81e750f-6a8c-4ba1-afe4-3e201837c8f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test 0329'])[1]/following::span[5]</value>
+      <webElementGuid>0ef6a3ac-e195-45f5-aae3-e7bdee8b305c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Profile'])[1]/preceding::span[1]</value>
+      <webElementGuid>0a2f18a9-fb93-4853-8b6e-4925d8e3fcb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='projects'])[1]/preceding::span[1]</value>
+      <webElementGuid>ec34e020-f57a-406b-a27d-e31b6060a5df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='obortech']/parent::*</value>
+      <webElementGuid>74f66550-f72a-4d69-8419-28f038796e4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/span</value>
+      <webElementGuid>096970ad-3e38-4aa0-af50-daf6d9df570f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'obortech' or . = 'obortech')]</value>
+      <webElementGuid>4e23f558-7e95-47ec-8430-71acf191713c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

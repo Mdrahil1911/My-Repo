@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Welcome Back Remember MeContinueForgot _e77996</name>
+   <tag></tag>
+   <elementGuidId>a3705daf-3e76-43ea-ade8-1cb7e9d4af24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aa6dbe54-0a9a-44f8-ab85-0c509d73cbb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-5</value>
+      <webElementGuid>8995ed4e-0bf3-428c-b373-a4144d55c37a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Welcome Back Remember MeContinueForgot Password?</value>
+      <webElementGuid>b82d2b9f-af8b-4a08-9b69-f5a92e36fff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;bg-gradient-primary&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-xl-10 col-lg-12 col-md-9&quot;]/div[@class=&quot;card o-hidden border-0 shadow-lg my-5&quot;]/div[@class=&quot;card-body p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;p-5&quot;]</value>
+      <webElementGuid>45db8f47-0cd7-4c30-a27a-bab54d14bf95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>23f90adf-4dec-49d9-9810-dd8ece811b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>b512a768-b462-4970-b9d6-6343dd2e3a31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Welcome Back Remember MeContinueForgot Password?' or . = ' Welcome Back Remember MeContinueForgot Password?')]</value>
+      <webElementGuid>8aa5e34d-96ef-47a7-bd67-7826a83aa7fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

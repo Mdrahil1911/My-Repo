@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suit 1,Chrome 114.0.0.0,,,2023-06-12 11:28:36,2023-06-12 11:28:59,23.695s,FAILED
+,,,,,,,
+Test Cases/Login,Chrome 114.0.0.0,,,2023-06-12 11:28:36,2023-06-12 11:28:42,5.960s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-12 11:28:36,2023-06-12 11:28:39,2.346s,PASSED
+"navigateToUrl(""https://app.ccltrace.com/login"")",Chrome 114.0.0.0,,,2023-06-12 11:28:39,2023-06-12 11:28:40,1.142s,PASSED
+"setText(findTestObject(""Object Repository/Page_/input_Email_email""), ""superadmin@chaincodeconsulting.com"")",Chrome 114.0.0.0,,,2023-06-12 11:28:40,2023-06-12 11:28:41,1.107s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_/input_Password_password""), ""lt7kXPiIKwaT+RdC1Uoh9g=="", CONTINUE_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-12 11:28:41,2023-06-12 11:28:41,0.562s,PASSED
+"click(findTestObject(""Object Repository/Page_/button_Login""))",Chrome 114.0.0.0,,,2023-06-12 11:28:41,2023-06-12 11:28:42,0.437s,PASSED
+,,,,,,,
+Test Cases/create organization,Chrome 114.0.0.0,,,2023-06-12 11:28:42,2023-06-12 11:28:53,11.400s,PASSED
+"click(findTestObject(""Object Repository/Page_NFTrace - Projects/a_Organizations""))",Chrome 114.0.0.0,,,2023-06-12 11:28:42,2023-06-12 11:28:44,1.413s,PASSED
+"click(findTestObject(""Object Repository/Page_NFTrace - Organizations/button_Create Organization""))",Chrome 114.0.0.0,,,2023-06-12 11:28:44,2023-06-12 11:28:45,0.899s,PASSED
+"setText(findTestObject(""Object Repository/Page_NFTrace - Organizations/input__organizationName""), ""London University"")",Chrome 114.0.0.0,,,2023-06-12 11:28:45,2023-06-12 11:28:46,1.148s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_NFTrace - Organizations/select_Select Organization typeSupply Chain_735ca9""), ""Education"", true)",Chrome 114.0.0.0,,,2023-06-12 11:28:46,2023-06-12 11:28:47,1.476s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_NFTrace - Organizations/select_Select Organization typeSupply Chain_735ca9""), ""Education"", true)",Chrome 114.0.0.0,,,2023-06-12 11:28:47,2023-06-12 11:28:49,1.462s,PASSED
+"setText(findTestObject(""Object Repository/Page_NFTrace - Organizations/input__email""), ""london@gotgel.org"")",Chrome 114.0.0.0,,,2023-06-12 11:28:49,2023-06-12 11:28:50,1.080s,PASSED
+"setText(findTestObject(""Object Repository/Page_NFTrace - Organizations/input__phone""), ""+91 95352-25614"")",Chrome 114.0.0.0,,,2023-06-12 11:28:50,2023-06-12 11:28:51,1.119s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_NFTrace - Organizations/input__password""), ""lubJgWeNoDywD0cxuuK8nQ=="")",Chrome 114.0.0.0,,,2023-06-12 11:28:51,2023-06-12 11:28:51,0.590s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_NFTrace - Organizations/input__confirmPassword""), ""lubJgWeNoDywD0cxuuK8nQ=="")",Chrome 114.0.0.0,,,2023-06-12 11:28:51,2023-06-12 11:28:52,0.699s,PASSED
+"uploadFile(findTestObject(""image/image/input__file upload_file""), ""C:\Users\MD Rahil\Desktop\NFTrace images\focus.png"")",Chrome 114.0.0.0,,,2023-06-12 11:28:52,2023-06-12 11:28:53,0.614s,PASSED
+"click(findTestObject(""Object Repository/Page_NFTrace - Organizations/button_Submit""))",Chrome 114.0.0.0,,,2023-06-12 11:28:53,2023-06-12 11:28:53,0.473s,PASSED
+,,,,,,,
+Test Cases/logout,Chrome 114.0.0.0,,,2023-06-12 11:28:53,2023-06-12 11:28:59,6.044s,FAILED
+"click(findTestObject(""Object Repository/Page_NFTrace - Projects/button_Planner_d-flex justify-content-cente_308e09""))",Chrome 114.0.0.0,,,2023-06-12 11:28:54,2023-06-12 11:28:59,5.457s,FAILED

@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+cREATE uSER,Chrome 114.0.0.0,,,2023-06-13 16:04:11,2023-06-13 16:04:27,16.258s,PASSED
+,,,,,,,
+Test Cases/NFTrace/Login Logout Register/Login,Chrome 114.0.0.0,,,2023-06-13 16:04:11,2023-06-13 16:04:18,6.245s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-13 16:04:12,2023-06-13 16:04:14,2.722s,PASSED
+"navigateToUrl(URL, CONTINUE_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-13 16:04:14,2023-06-13 16:04:16,1.191s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-06-13 16:04:16,2023-06-13 16:04:16,0.195s,PASSED
+"setText(findTestObject(""Object Repository/login Page_/input_Email_email""), ""PES@gotgel.org"")",Chrome 114.0.0.0,,,2023-06-13 16:04:16,2023-06-13 16:04:17,0.979s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/login Page_/input_Password_password""), ""lt7kXPiIKwaT+RdC1Uoh9g=="", CONTINUE_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-13 16:04:17,2023-06-13 16:04:17,0.455s,PASSED
+"click(findTestObject(""Object Repository/login Page_/button_Login""))",Chrome 114.0.0.0,,,2023-06-13 16:04:17,2023-06-13 16:04:18,0.403s,PASSED
+,,,,,,,
+Test Cases/NFTrace/Organization/Create Form,Chrome 114.0.0.0,,,2023-06-13 16:04:18,2023-06-13 16:04:27,9.694s,PASSED
+"click(findTestObject(""Object Repository/Page_NFTrace - Users/a_Modeller""))",Chrome 114.0.0.0,,,2023-06-13 16:04:18,2023-06-13 16:04:20,1.910s,PASSED
+"click(findTestObject(""Object Repository/Page_NFTrace - Modellers/a_Create new form""))",Chrome 114.0.0.0,,,2023-06-13 16:04:20,2023-06-13 16:04:23,2.733s,PASSED
+"click(findTestObject(""Object Repository/Page_NFTrace - Create Modeller/li_Text Input""))",Chrome 114.0.0.0,,,2023-06-13 16:04:23,2023-06-13 16:04:24,0.901s,PASSED
+"click(findTestObject(""Object Repository/Page_NFTrace - Create Modeller/li_Number Input""))",Chrome 114.0.0.0,,,2023-06-13 16:04:24,2023-06-13 16:04:24,0.477s,PASSED
+"click(findTestObject(""Object Repository/Page_NFTrace - Create Modeller/button_Save""))",Chrome 114.0.0.0,,,2023-06-13 16:04:24,2023-06-13 16:04:25,0.586s,PASSED
+"setText(findTestObject(""Object Repository/Page_NFTrace - Create Modeller/input_Form Name_name""), ""Students"")",Chrome 114.0.0.0,,,2023-06-13 16:04:25,2023-06-13 16:04:26,0.898s,PASSED
+"click(findTestObject(""Object Repository/Page_NFTrace - Create Modeller/button_SUBMIT""))",Chrome 114.0.0.0,,,2023-06-13 16:04:26,2023-06-13 16:04:26,0.533s,PASSED
+"click(findTestObject(""Object Repository/Page_NFTrace - Create Modeller/button_OK""))",Chrome 114.0.0.0,,,2023-06-13 16:04:26,2023-06-13 16:04:27,1.399s,PASSED

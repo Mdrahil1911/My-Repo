@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Welcome BackEmailPasswordRemember meLog_dfcb4f</name>
+   <tag></tag>
+   <elementGuidId>5a93f0bd-4bc9-4054-bf34-b2fbfc375292</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-4.m-1.card-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1fb87064-4463-4844-af97-cb8762de464a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-4 m-1 card-body</value>
+      <webElementGuid>33415dff-6547-4fe2-97e6-29601a282788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome Back!EmailPasswordRemember meLoginDon't have an account yet? Register now </value>
+      <webElementGuid>d57efba9-78e7-4e91-a6c7-6d72419317ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;loginBox&quot;]/div[@class=&quot;h-100 container-fluid&quot;]/div[@class=&quot;justify-content-center align-items-center h-100 row&quot;]/div[@class=&quot;loginContainer col-lg-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;p-4 m-1 card-body&quot;]</value>
+      <webElementGuid>ae298fa9-35ef-4828-bddc-52f01e39f71d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div/div</value>
+      <webElementGuid>247ca04a-849d-47b6-9fbd-1307c9e4c29e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div</value>
+      <webElementGuid>d6183015-0500-42a4-8b5d-2e9d40460d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Welcome Back!EmailPasswordRemember meLoginDon&quot; , &quot;'&quot; , &quot;t have an account yet? Register now &quot;) or . = concat(&quot;Welcome Back!EmailPasswordRemember meLoginDon&quot; , &quot;'&quot; , &quot;t have an account yet? Register now &quot;))]</value>
+      <webElementGuid>c1849e72-e5a9-49c5-8e14-8ba28088ff28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

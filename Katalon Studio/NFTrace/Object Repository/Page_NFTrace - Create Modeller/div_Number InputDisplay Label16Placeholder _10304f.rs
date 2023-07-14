@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Number InputDisplay Label16Placeholder _10304f</name>
+   <tag></tag>
+   <elementGuidId>9c83fa43-e68b-40bc-bdcb-b831a858b33a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-top']/div/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.edit-form</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>66446ef3-6bbe-487b-8085-4ea72926de65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>edit-form</value>
+      <webElementGuid>91febdb7-7f17-4c72-9bab-7ea366fec49c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Number InputDisplay Label16Placeholder LabelRequiredValidate MobileMin length:Max lengthPrint OptionsPage Break Before Element?Alternate/Signature PageDisplay on alternate/signature Page?Default Selected</value>
+      <webElementGuid>305a8d9a-8398-47f2-9f26-65701bc1a12c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-top&quot;)/div[1]/div[@class=&quot;page-top-main-div&quot;]/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;form-builder-container&quot;]/div[@class=&quot;w-100 overflow-hidden bg-transparent shadow-none card&quot;]/div[@class=&quot;p-4 card-body&quot;]/div[2]/div[@class=&quot;form-builder-middle-box mt-4&quot;]/div[@class=&quot;form-builder-middle-left-box-section mb-3&quot;]/div[1]/div[@class=&quot;react-form-builder clearfix&quot;]/div[@class=&quot;col-md-9 react-form-builder-preview float-left is-editing&quot;]/div[@class=&quot;edit-form&quot;]</value>
+      <webElementGuid>704676d1-d205-4320-9a6e-c38c600098fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-top']/div/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>8811a958-17c7-4a84-b560-8049b0b9131a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::div[6]</value>
+      <webElementGuid>d42ebee5-3e60-4ffd-a66d-06f6f207b6b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::div[6]</value>
+      <webElementGuid>517ad742-748d-4f8d-869b-11c044748317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>ad243366-75bc-44fb-8954-19a734ecfaee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Number InputDisplay Label16Placeholder LabelRequiredValidate MobileMin length:Max lengthPrint OptionsPage Break Before Element?Alternate/Signature PageDisplay on alternate/signature Page?Default Selected' or . = 'Number InputDisplay Label16Placeholder LabelRequiredValidate MobileMin length:Max lengthPrint OptionsPage Break Before Element?Alternate/Signature PageDisplay on alternate/signature Page?Default Selected')]</value>
+      <webElementGuid>85072a7b-21a9-4175-87d3-51ca018d261f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,39 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+regression,Chrome 114.0.0.0,,,2023-06-14 15:39:03,2023-06-14 15:40:28,1m - 24.538s,FAILED
+,,,,,,,
+Test Cases/OborTech/obrtech Login/Login,Chrome 114.0.0.0,,,2023-06-14 15:39:03,2023-06-14 15:39:10,7.173s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-14 15:39:04,2023-06-14 15:39:06,2.358s,PASSED
+"navigateToUrl(""https://login.obortech.io/login"")",Chrome 114.0.0.0,,,2023-06-14 15:39:06,2023-06-14 15:39:07,0.904s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-06-14 15:39:07,2023-06-14 15:39:07,0.159s,PASSED
+"setText(findTestObject(""Object Repository/obortech/Page_OBORTECH - Admin Login/input_Welcome Back_username""), ""OBORTECH"")",Chrome 114.0.0.0,,,2023-06-14 15:39:07,2023-06-14 15:39:08,0.838s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/obortech/Page_OBORTECH - Admin Login/input_Welcome Back_password""), ""se//74IT7ufqnxLE0o0JPg=="")",Chrome 114.0.0.0,,,2023-06-14 15:39:08,2023-06-14 15:39:08,0.462s,PASSED
+"click(findTestObject(""Object Repository/obortech/Page_OBORTECH - Admin Login/button_Continue""))",Chrome 114.0.0.0,,,2023-06-14 15:39:08,2023-06-14 15:39:09,0.528s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/obortech/Page_OBORTECH - Admin Login/input_Welcome Back_transactionPassword""), ""FbF8m2q+6a9AfB6vyD1YbQ=="")",Chrome 114.0.0.0,,,2023-06-14 15:39:09,2023-06-14 15:39:10,1.247s,PASSED
+"click(findTestObject(""Object Repository/obortech/Page_OBORTECH - Admin Login/button_Continue""))",Chrome 114.0.0.0,,,2023-06-14 15:39:10,2023-06-14 15:39:10,0.368s,PASSED
+,,,,,,,
+Test Cases/OborTech/Categories/Project Categories,Chrome 114.0.0.0,,,2023-06-14 15:39:10,2023-06-14 15:39:49,38.348s,FAILED
+"click(findTestObject(""Object Repository/Page_OBORTECH - Project Listing/a_obortech""))",Chrome 114.0.0.0,,,2023-06-14 15:39:11,2023-06-14 15:39:17,6.002s,PASSED
+"click(findTestObject(""Object Repository/Page_OBORTECH - Project Listing/a_Categories""))",Chrome 114.0.0.0,,,2023-06-14 15:39:17,2023-06-14 15:39:18,0.668s,PASSED
+"click(findTestObject(""Object Repository/Page_OBORTECH - Manage Categories/button_SUBMIT CATEGORY""))",Chrome 114.0.0.0,,,2023-06-14 15:39:18,2023-06-14 15:39:49,31.261s,FAILED
+,,,,,,,
+Test Cases/OborTech/Categories/Participant Category,Chrome 114.0.0.0,,,2023-06-14 15:39:49,2023-06-14 15:39:57,7.809s,PASSED
+"click(findTestObject(""Object Repository/Page_OBORTECH - Project Listing/a_obortech""))",Chrome 114.0.0.0,,,2023-06-14 15:39:49,2023-06-14 15:39:49,0.397s,PASSED
+"click(findTestObject(""Object Repository/Page_OBORTECH - Project Listing/a_Categories""))",Chrome 114.0.0.0,,,2023-06-14 15:39:49,2023-06-14 15:39:51,1.380s,PASSED
+"click(findTestObject(""Object Repository/Page_OBORTECH - Manage Categories/a_Participant Categories""))",Chrome 114.0.0.0,,,2023-06-14 15:39:51,2023-06-14 15:39:53,2.278s,PASSED
+"click(findTestObject(""Object Repository/Page_OBORTECH - Manage Categories/button_SUBMIT CATEGORY""))",Chrome 114.0.0.0,,,2023-06-14 15:39:53,2023-06-14 15:39:54,1.118s,PASSED
+"setText(findTestObject(""Object Repository/Page_OBORTECH - Manage Categories/input_Category Name_name""), ""fish"")",Chrome 114.0.0.0,,,2023-06-14 15:39:54,2023-06-14 15:39:55,0.870s,PASSED
+"click(findTestObject(""Object Repository/Page_OBORTECH - Manage Categories/button_INSERT""))",Chrome 114.0.0.0,,,2023-06-14 15:39:55,2023-06-14 15:39:55,0.380s,PASSED
+"click(findTestObject(""Object Repository/Page_OBORTECH - Manage Categories/button_OK""))",Chrome 114.0.0.0,,,2023-06-14 15:39:55,2023-06-14 15:39:57,1.182s,PASSED
+,,,,,,,
+Test Cases/OborTech/Categories/Event Categories,Chrome 114.0.0.0,,,2023-06-14 15:39:57,2023-06-14 15:40:27,30.352s,FAILED
+"click(findTestObject(""Object Repository/Page_OBORTECH - Project Listing/span_obortech""))",Chrome 114.0.0.0,,,2023-06-14 15:39:57,2023-06-14 15:39:57,0.392s,PASSED
+"click(findTestObject(""Object Repository/Page_OBORTECH - Project Listing/a_Categories""))",Chrome 114.0.0.0,,,2023-06-14 15:39:57,2023-06-14 15:39:58,0.998s,PASSED
+"click(findTestObject(""Object Repository/Page_OBORTECH - Manage Categories/a_Event Categories""))",Chrome 114.0.0.0,,,2023-06-14 15:39:58,2023-06-14 15:40:00,1.870s,PASSED
+"click(findTestObject(""Object Repository/Page_OBORTECH - Manage Categories/button_SUBMIT CATEGORY""))",Chrome 114.0.0.0,,,2023-06-14 15:40:00,2023-06-14 15:40:27,26.843s,FAILED
+,,,,,,,
+Test Cases/OborTech/Categories/Document category,Chrome 114.0.0.0,,,2023-06-14 15:40:27,2023-06-14 15:40:27,0.322s,FAILED
+"click(findTestObject(""Object Repository/Page_OBORTECH - Project Listing/a_obortech""))",Chrome 114.0.0.0,,,2023-06-14 15:40:27,2023-06-14 15:40:27,0.083s,FAILED
+,,,,,,,
+Test Cases/OborTech/Categories/Station Category,Chrome 114.0.0.0,"Add Station category
+Submit station",,2023-06-14 15:40:27,2023-06-14 15:40:28,0.258s,FAILED
+"click(findTestObject(""Object Repository/Page_OBORTECH - Project Listing/a_obortech""))",Chrome 114.0.0.0,,,2023-06-14 15:40:27,2023-06-14 15:40:28,0.071s,FAILED

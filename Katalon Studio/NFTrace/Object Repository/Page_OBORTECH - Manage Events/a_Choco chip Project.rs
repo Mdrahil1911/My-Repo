@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Choco chip Project</name>
+   <tag></tag>
+   <elementGuidId>1b4583cf-d971-46cf-832d-0bbc13512329</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='1799']/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a30e3aa2-7cb4-4c0f-bdf2-70048f3c829e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>projectsearch-input-dropdown-list</value>
+      <webElementGuid>a4e0f531-470a-4965-9d57-ca2448e3c75d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/event/1799</value>
+      <webElementGuid>2a9cc270-81a2-497f-9c41-061be8f3a37f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choco chip Project</value>
+      <webElementGuid>f435d7cd-9493-4140-b49e-65bafb02edfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1799&quot;)/div[@class=&quot;col-sm-10 pl-2&quot;]/a[1]</value>
+      <webElementGuid>03ae2036-9549-4266-8dc5-37a25358ab8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='1799']/div/a</value>
+      <webElementGuid>aafd13b5-1ce5-40bf-b13b-59adf1e08a72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Choco chip Project')]</value>
+      <webElementGuid>5634211f-433f-467f-9494-10cd23d5d019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transporter | Jason'])[1]/following::a[1]</value>
+      <webElementGuid>6974dbe4-eb94-4893-812d-ae0006287460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watch all'])[1]/following::a[1]</value>
+      <webElementGuid>b1e9d7e3-c327-4e3a-9e1e-c29d66a8f230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bottle Management'])[1]/preceding::a[1]</value>
+      <webElementGuid>e70ab948-4da9-454e-b1b6-e083aac23ddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transportation'])[1]/preceding::a[2]</value>
+      <webElementGuid>360a1761-b66a-4651-8e37-e5f9caca90b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Choco chip Project']/parent::*</value>
+      <webElementGuid>3c37f747-d362-4b49-8b87-84edbd6f43e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/event/1799')]</value>
+      <webElementGuid>71f6a3c1-3eb8-462c-9152-8a4da0f91917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>864d3306-04bc-42b9-835b-b96924226d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/event/1799' and (text() = 'Choco chip Project' or . = 'Choco chip Project')]</value>
+      <webElementGuid>13717dd1-0ca9-4808-8bd2-38db8646f7dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='accordionSidebar']/li/form/div/div[2]/a</value>
+      <webElementGuid>7b40f6e8-c33f-4987-bee8-da38b2d8ffc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watch all'])[1]/preceding::a[1]</value>
+      <webElementGuid>07bb54c7-53dd-45eb-b316-cf25e4e29c07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/event/1799' and (text() = 'Choco chip Project ' or . = 'Choco chip Project ')]</value>
+      <webElementGuid>2e2d0917-5664-4dd2-b610-db6a3f1285e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='accordionSidebar']/li/form/div/div[2]/a[3]</value>
+      <webElementGuid>6177e1fe-8b98-4549-9730-177fc6b10969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='School Test Project'])[1]/following::a[1]</value>
+      <webElementGuid>85c3bfc6-8151-4659-bb85-7f188a33a8a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='School project'])[1]/following::a[2]</value>
+      <webElementGuid>f54b5212-423e-467b-b304-ed398db15919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>bbc559fc-388b-4ce8-8fe8-1ec8bfb8c97a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

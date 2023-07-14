@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Organization typeSupply Chain_735ca9</name>
+   <tag></tag>
+   <elementGuidId>7d565514-89ad-499f-a74c-240e59e1ecdf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#type</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='type']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5454dd6e-afa8-4d7e-876c-1b0c8d3e8e10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>type</value>
+      <webElementGuid>7cbc4ade-c534-44eb-a230-f28f0dbac924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>default-css form-control</value>
+      <webElementGuid>6fa37143-0144-4221-8e32-faba35e4a779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>type</value>
+      <webElementGuid>add0ba77-d7a3-44b0-b3fa-0e95767f5f70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>options</name>
+      <type>Main</type>
+      <value>[object Object],[object Object],[object Object]</value>
+      <webElementGuid>534ece1d-673e-42a2-901f-3dcdca34c162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>defaultoptiontext</name>
+      <type>Main</type>
+      <value>Select Organization type</value>
+      <webElementGuid>b255e0f9-e07c-4755-aeca-104da675a4fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Organization typeSupply ChainEducationHealthcare</value>
+      <webElementGuid>44bc84c1-32db-490d-8495-cefb17b204e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;type&quot;)</value>
+      <webElementGuid>6b9eae97-01ba-4e23-8d2f-5c08176a4193</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='type']</value>
+      <webElementGuid>ec8a8a14-3cb9-48ce-95e0-b23640a6da9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>7cde7711-6209-4687-bedd-c419dcb65da0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[2]/following::select[1]</value>
+      <webElementGuid>fb31e3af-aec1-47fa-aa6a-6c82d45aa55b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type is required'])[1]/preceding::select[1]</value>
+      <webElementGuid>3674ca5b-c6b8-45c2-bbdc-d460ad64cec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/preceding::select[1]</value>
+      <webElementGuid>308f11d7-6d41-40f0-bde1-39ac0c5109c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>2e43ccfb-c06e-4a9e-b530-b98de3131303</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'type' and @name = 'type' and (text() = 'Select Organization typeSupply ChainEducationHealthcare' or . = 'Select Organization typeSupply ChainEducationHealthcare')]</value>
+      <webElementGuid>ca4003b6-e4cb-43e2-a494-28fa2523aa7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
